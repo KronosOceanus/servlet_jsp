@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 默认命名空间
+     用到的元素和数据类型的命名空间，且元素和数据类型前缀应为xsi：
+     参数（需要使用的命名空间  命名空间使用的XMLSchema位置）
+     -->
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+         version="4.0">
+
+    <!-- 对应的class -->
+    <servlet>
+        <servlet-name>MyServlet</servlet-name>
+        <servlet-class>servlets.MyServlet</servlet-class>
+    </servlet>
+    <!-- 访问时的url地址（or直接在WebServices注解指定） -->
+    <servlet-mapping>
+        <servlet-name>MyServlet</servlet-name>
+        <url-pattern>/servlets.MyServlet</url-pattern>
+    </servlet-mapping>
+
+</web-app>

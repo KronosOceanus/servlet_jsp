@@ -1,0 +1,38 @@
+dl,dt,dd{
+    margin:0;
+    background:#fff5fa;
+    font-size:14px;
+}
+dl{
+    margin:0 auto;
+    width:50%;
+    border:1px solid #f8b3d0;
+    border-bottom:none;
+}
+dt{
+    font-weight:800;
+    background:#ff99cc;
+    color:#fff;
+}
+dt,dd{
+    line-height:30px;
+    padding:0 0 0 10px;
+    border-bottom:1px solid #f8b3d0;
+    height:30px;
+    overflow:hidden
+}
+dd{
+    text-indent:3em;
+}
+.fff{
+    background:#fff
+}
+dt span,dd span{
+    display:block;
+    float:right;
+    font-size:14px;
+    border-left:1px solid #f8b3d0;
+    text-indent:0em;
+    width:80px;
+    text-align:center;
+}
