@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="jsp_bean:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="183b1ebe-b7d3-44b1-943d-4281ca3c684c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../jsp+java/src/jsp_java/RanUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp+java/web/RandomList1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp+java/web/RandomList2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp+java/web/RandomNums.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp+java/web/SemiRandomNumber.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/higher/SaleEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jsp_bean/StringBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/share/AccessCountBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/share/BakedBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/share/BakedBeanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/StringBean.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/baked_bean/BakedBeanDisplay-application.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/baked_bean/BakedBeanDisplay-page.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/baked_bean/BakedBeanDisplay-request.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/baked_bean/BakedBeanDisplay-session.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/baked_bean/BakedBeanDisplay-snippet.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/sale_entry/SaleEntry-Form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/sale_entry/SaleEntry1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/sale_entry/SaleEntry2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/sale_entry/SaleEntry3.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/shared_counts/SharedCounts1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/shared_counts/SharedCounts2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/笔记.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_include/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_include/jsp_include与include指令的对比.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_include/web/SomeRandomPage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_include/web/WEB-INF/ContactSection.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_include/web/WEB-INF/newsi_tem/Item1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_include/web/WEB-INF/newsi_tem/Item2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_include/web/WEB-INF/newsi_tem/Item3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_include/web/WhatsNew.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_include/web/jsp_param/JspParam.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_include/web/jsp_param/JspParamBGColor.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_include/web/jsp_param/SubmitJspParam.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_include/笔记.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/src/page/CookieUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/web/ImportAttribute.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/web/part.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyServlet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyServlet/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyServlet/src/form/BidServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyServlet/src/form/BidServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyServlet/src/form/ShowParams.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyServlet/src/form/ShowParams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyServlet/src/form/SubmitResume.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyServlet/src/form/SubmitResume.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cookie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cookie/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../http3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../http3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/src/jsp_java/RandomNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/src/jsp_java/RandomNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/src/jsp_java/SomeHeading.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/src/jsp_java/SomeHeading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/web/AccessCounts.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/AccessCounts.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/web/BGColor.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/BGColor.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/web/DayWish.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/DayWish.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/web/Expressions.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/Expressions.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/web/RandomNumber.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/RandomNumber.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/web/SomeHeading.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/SomeHeading.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/web/ThreeParams.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/ThreeParams.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/web/ThreeParamsForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/ThreeParamsForm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/预定义变量.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/预定义变量.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/mall/Catalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/Catalog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/mall/CatalogItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/CatalogItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/mall/CatalogPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/CatalogPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/mall/ItemOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/ItemOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/mall/KidsBooksPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/KidsBooksPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/mall/OrderPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/OrderPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/mall/ServletUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/ServletUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/mall/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/ShoppingCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/mall/TechBooksPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/TechBooksPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/session/ServletUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/session/ServletUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/session/ShowItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/session/ShowItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/session/ShowSession.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/session/ShowSession.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/web/Checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/../session/web/Checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/web/OrderForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/../session/web/OrderForm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/对发往客户的URL编码.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/对发往客户的URL编码.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/核心API介绍.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/核心API介绍.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/核心类介绍.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/核心类介绍.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/自己实现会话跟踪/URL重写.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/自己实现会话跟踪/URL重写.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/自己实现会话跟踪/cookie实现.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/自己实现会话跟踪/cookie实现.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/自己实现会话跟踪/隐藏的表单域.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/自己实现会话跟踪/隐藏的表单域.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/笔记.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/baked_bean/BakedBeanDisplay-application.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/sale_entry/SaleEntry1.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-325">
+              <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/sale_entry/SaleEntry2.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/share/BakedBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-25">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#154#155#0" expanded="true" />
+                <element signature="e#182#183#0" expanded="true" />
+                <element signature="e#224#225#0" expanded="true" />
+                <element signature="e#258#259#0" expanded="true" />
+                <element signature="e#293#294#0" expanded="true" />
+                <element signature="e#324#325#0" expanded="true" />
+                <element signature="e#372#373#0" expanded="true" />
+                <element signature="e#412#413#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/baked_bean/BakedBeanDisplay-page.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="7" selection-start-line="7" selection-end-line="23" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/baked_bean/BakedBeanDisplay-request.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/baked_bean/BakedBeanDisplay-snippet.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/baked_bean/BakedBeanDisplay-session.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/share/AccessCountBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+              <folding>
+                <element signature="e#191#192#0" expanded="true" />
+                <element signature="e#231#232#0" expanded="true" />
+                <element signature="e#269#270#0" expanded="true" />
+                <element signature="e#301#302#0" expanded="true" />
+                <element signature="e#351#352#0" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
+                <element signature="e#428#429#0" expanded="true" />
+                <element signature="e#462#463#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/web/StringBean.jsp" />
+        <option value="$PROJECT_DIR$/src/jsp_bean/StringBean.java" />
+        <option value="$PROJECT_DIR$/src/higher/SaleEntry.java" />
+        <option value="$PROJECT_DIR$/web/SafeEntry1.jsp" />
+        <option value="$PROJECT_DIR$/web/SaleEntry1-Form.jsp" />
+        <option value="$PROJECT_DIR$/web/SaleEntry2.jsp" />
+        <option value="$PROJECT_DIR$/web/SaleEntry1.jsp" />
+        <option value="$PROJECT_DIR$/web/SaleEntry-Form.jsp" />
+        <option value="$PROJECT_DIR$/web/SaleEntry3.jsp" />
+        <option value="$PROJECT_DIR$/web/SharedCounts2.jsp" />
+        <option value="$PROJECT_DIR$/web/SharedCounts1.jsp" />
+        <option value="$PROJECT_DIR$/src/share/AccessCountBean.java" />
+        <option value="$PROJECT_DIR$/src/share/BakedBean.java" />
+        <option value="$PROJECT_DIR$/src/share/BakedBeanTest.java" />
+        <option value="$PROJECT_DIR$/web/BakedBeanDisplay-page.jsp" />
+        <option value="$PROJECT_DIR$/web/BakedBeanDisplay-request.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/BakedBeanDisplay-snippet.jsp" />
+        <option value="$PROJECT_DIR$/web/baked_bean/BakedBeanDisplay-snippet.jsp" />
+        <option value="$PROJECT_DIR$/笔记.java" />
+        <option value="$PROJECT_DIR$/web/baked_bean/BakedBeanDisplay-request.jsp" />
+        <option value="$PROJECT_DIR$/web/baked_bean/BakedBeanDisplay-session.jsp" />
+        <option value="$PROJECT_DIR$/web/baked_bean/BakedBeanDisplay-application.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="121" />
+    <option name="y" value="12" />
+    <option name="width" value="1400" />
+    <option name="height" value="1035" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jsp_bean" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsp_bean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jsp_bean" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsp_bean" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jsp_bean" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsp_bean" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558515259632" />
+    <property name="last_opened_file_path" value="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\servlet_jsp\jsp_bean\web\baked_bean" />
+      <recent name="D:\project\servlet_jsp\jsp_bean\web\shared_counts" />
+      <recent name="D:\project\servlet_jsp\jsp_bean\web\sale_entry" />
+      <recent name="D:\project\servlet_jsp\jsp_bean\web" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.BakedBeanDisplay-session.jsp">
+    <configuration name="BakedBeanTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="share.BakedBeanTest" />
+      <module name="jsp_bean" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="share.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BakedBeanDisplay-page.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 9.0.19" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/BakedBeanDisplay-page.jsp" />
+      <deployment>
+        <artifact name="jsp_bean:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/jsp_bean_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="BakedBeanDisplay-page_jsp_jsp_bean" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5866" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="jsp_bean:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="BakedBeanDisplay-request.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 9.0.19" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/baked_bean/BakedBeanDisplay-request.jsp" />
+      <deployment>
+        <artifact name="jsp_bean:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/jsp_bean_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="BakedBeanDisplay-request_jsp_jsp_bean" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="6005" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="jsp_bean:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="BakedBeanDisplay-session.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 9.0.19" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/baked_bean/BakedBeanDisplay-session.jsp" />
+      <deployment>
+        <artifact name="jsp_bean:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/jsp_bean_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="BakedBeanDisplay-session_jsp_jsp_bean" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="jsp_bean:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="SharedCounts1.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 9.0.19" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/SharedCounts1.jsp" />
+      <deployment>
+        <artifact name="jsp_bean:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/jsp_bean_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="SharedCounts1_jsp_jsp_bean" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5628" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="jsp_bean:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.19" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.19" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="jsp_bean:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/jsp_bean_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="jsp_bean:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Tomcat 9.0.19" />
+      <item itemvalue="Tomcat Server.SharedCounts1.jsp" />
+      <item itemvalue="Application.BakedBeanTest" />
+      <item itemvalue="Tomcat Server.BakedBeanDisplay-page.jsp" />
+      <item itemvalue="Tomcat Server.BakedBeanDisplay-request.jsp" />
+      <item itemvalue="Tomcat Server.BakedBeanDisplay-session.jsp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Tomcat Server.BakedBeanDisplay-session.jsp" />
+        <item itemvalue="Tomcat Server.BakedBeanDisplay-request.jsp" />
+        <item itemvalue="Tomcat Server.BakedBeanDisplay-page.jsp" />
+        <item itemvalue="Application.BakedBeanTest" />
+        <item itemvalue="Tomcat Server.SharedCounts1.jsp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="183b1ebe-b7d3-44b1-943d-4281ca3c684c" name="Default Changelist" comment="" />
+      <created>1558424854952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558424854952</updated>
+      <workItem from="1558424857659" duration="1777000" />
+      <workItem from="1558508739280" duration="6565000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8342000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="97" y="10" width="1120" height="828" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2542373" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3275862" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/jsp_bean/StringBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/StringBean.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="17" column="58" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/higher/SaleEntry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <folding>
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#953#954#0" expanded="true" />
+            <element signature="e#1057#1058#0" expanded="true" />
+            <element signature="e#1120#1121#0" expanded="true" />
+            <element signature="e#1205#1206#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/sale_entry/SaleEntry-Form.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/sale_entry/SaleEntry3.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/shared_counts/SharedCounts2.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/shared_counts/SharedCounts1.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/share/BakedBeanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/share/AccessCountBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding>
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/share/BakedBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/baked_bean/BakedBeanDisplay-snippet.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/baked_bean/BakedBeanDisplay-page.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="7" selection-start-line="7" selection-end-line="23" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/baked_bean/BakedBeanDisplay-request.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/baked_bean/BakedBeanDisplay-session.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/baked_bean/BakedBeanDisplay-application.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/sale_entry/SaleEntry1.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-325">
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/sale_entry/SaleEntry2.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笔记.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>jsp_bean:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>jsp_bean</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

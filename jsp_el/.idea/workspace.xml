@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="jsp_el:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="309da824-3b11-4e9e-997a-a1f16c86cacc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/el/BeanProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/el/Collectionss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/el/CompanyBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/el/EmployeeBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/el/NameBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/el/ScopedVars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/bean-properties.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/collectionss.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/scoped-vars.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/../MVC/note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC/src/bank/BankCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MVC/src/bank/BankCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC/src/bank/ShowBalance.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MVC/src/bank/ShowBalance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC/src/compare/NameBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MVC/src/compare/NameBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC/src/compare/NumberBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MVC/src/compare/NumberBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC/src/compare/PrimeBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MVC/src/compare/PrimeBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC/src/compare/PrimeServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MVC/src/compare/PrimeServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC/src/compare/RandomNumberServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MVC/src/compare/RandomNumberServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC/src/compare/RegistrationServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MVC/src/compare/RegistrationServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC/web/BankCustomer-Form.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MVC/web/BankCustomer-Form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC/web/PrimeServlet-Form.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MVC/web/PrimeServlet-Form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC/web/RegistrationServlet-Form.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MVC/web/RegistrationServlet-Form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC/web/WEB-INF/bank-account/HighBalance.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../MVC/web/WEB-INF/bank-account/HighBalance.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC/web/WEB-INF/bank-account/NegativeBalance.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../MVC/web/WEB-INF/bank-account/NegativeBalance.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC/web/WEB-INF/bank-account/NormalBalance.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../MVC/web/WEB-INF/bank-account/NormalBalance.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC/web/WEB-INF/bank-account/UnknownCustomer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../MVC/web/WEB-INF/bank-account/UnknownCustomer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC/web/WEB-INF/mvc-sharing/RandomNum.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../MVC/web/WEB-INF/mvc-sharing/RandomNum.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC/web/WEB-INF/mvc-sharing/ShowName.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../MVC/web/WEB-INF/mvc-sharing/ShowName.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC/web/WEB-INF/mvc-sharing/ShowPrime.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../MVC/web/WEB-INF/mvc-sharing/ShowPrime.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyServlet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyServlet/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyServlet/out/artifacts/MyServlet_war_exploded/WEB-INF/classes/form/ShowParams.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyServlet/out/artifacts/MyServlet_war_exploded/WEB-INF/classes/form/ShowParams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyServlet/out/artifacts/MyServlet_war_exploded/WEB-INF/classes/form/SubmitResume.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyServlet/out/artifacts/MyServlet_war_exploded/WEB-INF/classes/form/SubmitResume.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyServlet/src/form/BidServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyServlet/src/form/BidServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyServlet/src/form/ShowParams.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyServlet/src/form/ShowParams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyServlet/src/form/SubmitResume.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyServlet/src/form/SubmitResume.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyServlet/web/WEB-INF/classes/form/ShowParams.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyServlet/web/WEB-INF/classes/form/ShowParams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyServlet/web/WEB-INF/classes/form/SubmitResume.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyServlet/web/WEB-INF/classes/form/SubmitResume.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cookie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cookie/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../http3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../http3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/src/jsp_java/RanUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/src/jsp_java/RanUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/src/jsp_java/RandomNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/src/jsp_java/RandomNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/src/jsp_java/SomeHeading.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/src/jsp_java/SomeHeading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/web/AccessCounts.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/AccessCounts.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/web/BGColor.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/BGColor.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/web/DayWish.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/DayWish.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/web/Expressions.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/Expressions.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/web/RandomList2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/RandomList2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/web/RandomNumber.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/RandomNumber.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/web/RandomNums.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/RandomNums.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/web/SemiRandomNumber.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/SemiRandomNumber.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/web/SomeHeading.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/SomeHeading.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/web/ThreeParams.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/ThreeParams.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/web/ThreeParamsForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/ThreeParamsForm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/预定义变量.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/预定义变量.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp_bean/src/higher/SaleEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp_bean/src/higher/SaleEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp_bean/src/jsp_bean/StringBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp_bean/src/jsp_bean/StringBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp_bean/src/share/AccessCountBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp_bean/src/share/AccessCountBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp_bean/src/share/BakedBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp_bean/src/share/BakedBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp_bean/src/share/BakedBeanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp_bean/src/share/BakedBeanTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp_bean/web/StringBean.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp_bean/web/StringBean.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp_bean/web/baked_bean/BakedBeanDisplay-application.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp_bean/web/baked_bean/BakedBeanDisplay-application.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp_bean/web/baked_bean/BakedBeanDisplay-request.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp_bean/web/baked_bean/BakedBeanDisplay-request.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp_bean/web/baked_bean/BakedBeanDisplay-session.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp_bean/web/baked_bean/BakedBeanDisplay-session.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp_bean/web/baked_bean/BakedBeanDisplay-snippet.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp_bean/web/baked_bean/BakedBeanDisplay-snippet.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp_bean/笔记.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp_bean/笔记.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp_include/web/SomeRandomPage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp_include/web/SomeRandomPage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp_include/web/WEB-INF/ContactSection.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp_include/web/WEB-INF/ContactSection.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp_include/web/WhatsNew.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp_include/web/WhatsNew.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp_include/web/jsp_param/JspParam.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp_include/web/jsp_param/JspParam.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp_include/笔记.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp_include/笔记.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../page/src/page/CookieUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../page/src/page/CookieUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../page/web/ImportAttribute.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../page/web/ImportAttribute.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../page/web/part.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../page/web/part.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/mall/Catalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/Catalog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/mall/CatalogItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/CatalogItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/mall/CatalogPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/CatalogPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/mall/ItemOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/ItemOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/mall/KidsBooksPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/KidsBooksPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/mall/OrderPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/OrderPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/mall/ServletUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/ServletUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/mall/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/ShoppingCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/mall/TechBooksPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/TechBooksPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/session/ServletUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/session/ServletUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/session/ShowItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/session/ShowItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/session/ShowSession.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/session/ShowSession.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/web/Checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/../session/web/Checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/web/OrderForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/../session/web/OrderForm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/对发往客户的URL编码.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/对发往客户的URL编码.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/核心API介绍.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/核心API介绍.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/核心类介绍.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/核心类介绍.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/自己实现会话跟踪/URL重写.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/自己实现会话跟踪/URL重写.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/自己实现会话跟踪/cookie实现.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/自己实现会话跟踪/cookie实现.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/自己实现会话跟踪/隐藏的表单域.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/自己实现会话跟踪/隐藏的表单域.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/note.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="478">
+                <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/el/Collectionss.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/collectionss.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/el/EmployeeBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/el/NameBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/el/BeanProperties.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/bean-properties.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/el/CompanyBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="625">
+              <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/scoped-vars.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/el/ScopedVars.java" />
+        <option value="$PROJECT_DIR$/src/el/EmployeeBean.java" />
+        <option value="$PROJECT_DIR$/src/el/NameBean.java" />
+        <option value="$PROJECT_DIR$/src/el/CompanyBean.java" />
+        <option value="$PROJECT_DIR$/src/el/BeanProperties.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/scoped-vars.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/bean-properties.jsp" />
+        <option value="$PROJECT_DIR$/src/el/Collectionss.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/collectionss.jsp" />
+        <option value="$PROJECT_DIR$/note.md" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="56" />
+    <option name="y" value="12" />
+    <option name="width" value="1400" />
+    <option name="height" value="1035" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jsp_el" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsp_el" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jsp_el" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsp_el" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jsp_el" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsp_el" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="el" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jsp_el" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsp_el" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jsp_el" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsp_el" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558748648034" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../javaSE/CS结构聊天室（客户端）" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.19" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.19" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="jsp_el:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_19_jsp_el" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="10313" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="jsp_el:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="309da824-3b11-4e9e-997a-a1f16c86cacc" name="Default Changelist" comment="" />
+      <created>1558743913506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558743913506</updated>
+      <workItem from="1558743926788" duration="4715000" />
+      <workItem from="1558857424423" duration="1334000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6049000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="45" y="10" width="1120" height="828" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2542373" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3275862" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/el/ScopedVars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/el/Collectionss.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/el/EmployeeBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/el/NameBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/el/BeanProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/bean-properties.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/el/CompanyBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/scoped-vars.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/collectionss.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="478">
+            <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>jsp_el:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>jsp_el</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

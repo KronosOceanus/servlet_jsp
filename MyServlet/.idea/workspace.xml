@@ -7,26 +7,91 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3e36058-8e9c-403e-a262-568ea3cbcbd9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Http/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Http2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cookie/src/cookie/RepeatVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cookie/src/cookie/ServletUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../http3/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../http3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../http3/MIME类型.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../http3/src/http3/Excel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../http3/src/http3/MessageImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../http3/src/http3/PrimeList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../http3/src/http3/PrimeNumberServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../http3/src/http3/Primes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../http3/src/http3/ServletUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../http3/src/http3/ShadowedText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../http3/web/PrimeNumbers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../http3/web/ShadowedText.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Http/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Http2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Http2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp+java/src/jsp_java/RanUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp+java/web/RandomList1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp+java/web/RandomList2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp+java/web/RandomNums.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp+java/web/SemiRandomNumber.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_bean/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_bean/src/higher/SaleEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_bean/src/jsp_bean/StringBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_bean/src/share/AccessCountBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_bean/src/share/BakedBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_bean/src/share/BakedBeanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_bean/web/StringBean.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_bean/web/baked_bean/BakedBeanDisplay-application.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_bean/web/baked_bean/BakedBeanDisplay-page.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_bean/web/baked_bean/BakedBeanDisplay-request.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_bean/web/baked_bean/BakedBeanDisplay-session.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_bean/web/baked_bean/BakedBeanDisplay-snippet.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_bean/web/sale_entry/SaleEntry-Form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_bean/web/sale_entry/SaleEntry1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_bean/web/sale_entry/SaleEntry2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_bean/web/sale_entry/SaleEntry3.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_bean/web/shared_counts/SharedCounts1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_bean/web/shared_counts/SharedCounts2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_bean/笔记.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_include/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_include/jsp_include与include指令的对比.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_include/web/SomeRandomPage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_include/web/WEB-INF/ContactSection.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_include/web/WEB-INF/newsi_tem/Item1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_include/web/WEB-INF/newsi_tem/Item2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_include/web/WEB-INF/newsi_tem/Item3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_include/web/WhatsNew.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_include/web/jsp_param/JspParam.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_include/web/jsp_param/JspParamBGColor.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_include/web/jsp_param/SubmitJspParam.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp_include/笔记.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/src/page/CookieUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/web/ImportAttribute.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page/web/part.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyServlet_war_exploded/WEB-INF/classes/form/ShowParams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/MyServlet_war_exploded/WEB-INF/classes/form/ShowParams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyServlet_war_exploded/WEB-INF/classes/form/SubmitResume.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/MyServlet_war_exploded/WEB-INF/classes/form/SubmitResume.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/form/BidServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/form/BidServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/form/ShowParams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/form/ShowParams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/form/SubmitResume.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/form/SubmitResume.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/form/ShowParams.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/form/ShowParams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/form/SubmitResume.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/form/SubmitResume.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cookie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cookie/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../http3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../http3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../http3/Http1.1请求报头.java" beforeDir="false" afterPath="$PROJECT_DIR$/../http3/Http1.1请求报头.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/src/jsp_java/RandomNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/src/jsp_java/RandomNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/src/jsp_java/SomeHeading.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/src/jsp_java/SomeHeading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/web/AccessCounts.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/AccessCounts.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/web/BGColor.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/BGColor.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/web/DayWish.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/DayWish.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/web/Expressions.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/Expressions.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/web/RandomNumber.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/RandomNumber.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/web/SomeHeading.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/SomeHeading.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/web/ThreeParams.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/ThreeParams.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/web/ThreeParamsForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/ThreeParamsForm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/预定义变量.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/预定义变量.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/mall/Catalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/Catalog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/mall/CatalogItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/CatalogItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/mall/CatalogPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/CatalogPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/mall/ItemOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/ItemOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/mall/KidsBooksPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/KidsBooksPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/mall/OrderPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/OrderPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/mall/ServletUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/ServletUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/mall/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/ShoppingCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/mall/TechBooksPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/TechBooksPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/session/ServletUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/session/ServletUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/session/ShowItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/session/ShowItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/src/session/ShowSession.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/session/ShowSession.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/web/Checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/../session/web/Checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/web/OrderForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/../session/web/OrderForm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/对发往客户的URL编码.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/对发往客户的URL编码.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/核心API介绍.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/核心API介绍.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/核心类介绍.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/核心类介绍.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/自己实现会话跟踪/URL重写.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/自己实现会话跟踪/URL重写.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/自己实现会话跟踪/cookie实现.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/自己实现会话跟踪/cookie实现.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/自己实现会话跟踪/隐藏的表单域.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/自己实现会话跟踪/隐藏的表单域.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,65 +117,32 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/servlets/MyServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/servlets/ServletConfigDemoServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="20" column="75" selection-start-line="20" selection-start-column="75" selection-end-line="20" selection-end-column="75" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/form/BidInfo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/form/GoodCodeServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+            <state relative-caret-position="250">
+              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+              <folding>
+                <element signature="e#208#209#0" expanded="true" />
+                <element signature="e#270#271#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/form/BidServlet.java">
+        <entry file="file://$PROJECT_DIR$/src/form/InsuranceInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-              <folding>
-                <element signature="method#doGet#0;class#BidServlet#0" />
-                <element signature="method#showBid#0;class#BidServlet#0" />
-                <element signature="method#showEntryForm#0;class#BidServlet#0" />
-                <element signature="method#submitBid#0;class#BidServlet#0" />
-                <element signature="method#warning#0;class#BidServlet#0" />
-                <element signature="method#inputElement#0;class#BidServlet#0" />
-                <element signature="method#inputElement#1;class#BidServlet#0" />
-                <element signature="method#checkbox#0;class#BidServlet#0" />
-              </folding>
+            <state relative-caret-position="225">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/form/ShowParams.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1125">
+              <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -125,6 +157,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/form/BeanUtilities.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/form/SubmitInsuranceInfo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="600">
@@ -134,19 +175,60 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/index.jsp">
+        <entry file="file://$PROJECT_DIR$/src/form/SubmitResume.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+            <state relative-caret-position="1075">
+              <caret line="174" column="25" selection-start-line="174" selection-start-column="25" selection-end-line="174" selection-end-column="25" />
+              <folding>
+                <element signature="method#doGet#0;class#SubmitResume#0" />
+                <element signature="method#doPost#0;class#SubmitResume#0" />
+                <element signature="method#showPreview#0;class#SubmitResume#0" />
+                <element signature="method#replaceIfMissing#0;class#SubmitResume#0" />
+                <element signature="method#replaceIfMissingOrDefault#0;class#SubmitResume#0" />
+                <element signature="method#getSize#0;class#SubmitResume#0" />
+                <element signature="method#makeList#0;class#SubmitResume#0" />
+                <element signature="method#makeStyleSheet#0;class#SubmitResume#0" />
+                <element signature="method#showConfirmation#0;class#SubmitResume#0" />
+                <element signature="method#storeResume#0;class#SubmitResume#0" />
+                <element signature="method#putInSpamList#0;class#SubmitResume#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/ThreeParamsForm.html">
+        <entry file="file://$PROJECT_DIR$/src/form/ThreeParams.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+            <state relative-caret-position="550">
+              <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/BidForm.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/form/BidServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="800">
+              <caret line="103" column="38" selection-start-line="103" selection-start-column="38" selection-end-line="103" selection-end-column="38" />
+              <folding>
+                <element signature="method#doGet#0;class#BidServlet#0" />
+                <element signature="method#showBid#0;class#BidServlet#0" />
+                <element signature="method#showEntryForm#0;class#BidServlet#0" />
+                <element signature="method#submitBid#0;class#BidServlet#0" />
+                <element signature="method#warning#0;class#BidServlet#0" />
+                <element signature="method#inputElement#0;class#BidServlet#0" />
+                <element signature="method#inputElement#1;class#BidServlet#0" />
+                <element signature="method#checkbox#0;class#BidServlet#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -197,11 +279,11 @@
         <option value="$PROJECT_DIR$/web/InsuranceForm.html" />
         <option value="$PROJECT_DIR$/web/BidForm.html" />
         <option value="$PROJECT_DIR$/src/form/ThreeParams.java" />
-        <option value="$PROJECT_DIR$/src/form/ShowParams.java" />
-        <option value="$PROJECT_DIR$/src/form/SubmitResume.java" />
         <option value="$PROJECT_DIR$/src/form/BeanUtilities.java" />
         <option value="$PROJECT_DIR$/src/form/BidInfo.java" />
         <option value="$PROJECT_DIR$/src/form/BidServlet.java" />
+        <option value="$PROJECT_DIR$/src/form/ShowParams.java" />
+        <option value="$PROJECT_DIR$/src/form/SubmitResume.java" />
       </list>
     </option>
   </component>
@@ -240,6 +322,12 @@
             <path>
               <item name="MyServlet" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyServlet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="form" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyServlet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyServlet" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -263,7 +351,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557478038266" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558603067745" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -768,11 +856,16 @@
       <workItem from="1557477208937" duration="883000" />
       <workItem from="1557566301057" duration="560000" />
       <workItem from="1557841719729" duration="14000" />
+      <workItem from="1558016337131" duration="458000" />
+      <workItem from="1558267032258" duration="17000" />
+      <workItem from="1558267078359" duration="45000" />
+      <workItem from="1558603010080" duration="385000" />
+      <workItem from="1558696224832" duration="25000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47757000" />
+    <option name="totallyTimeSpent" value="48687000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -785,9 +878,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="108" y="32" width="1200" height="772" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5063291" visible="true" weight="0.33712783" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5063291" visible="true" weight="0.36777583" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -967,61 +1059,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/form/ThreeParams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/form/ShowParams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="49" column="22" lean-forward="true" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/form/SubmitResume.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="39" column="69" selection-start-line="39" selection-start-column="69" selection-end-line="39" selection-end-column="69" />
-          <folding>
-            <element signature="method#doGet#0;class#SubmitResume#0" />
-            <element signature="method#doPost#0;class#SubmitResume#0" />
-            <element signature="method#showPreview#0;class#SubmitResume#0" />
-            <element signature="method#replaceIfMissing#0;class#SubmitResume#0" />
-            <element signature="method#replaceIfMissingOrDefault#0;class#SubmitResume#0" />
-            <element signature="method#getSize#0;class#SubmitResume#0" />
-            <element signature="method#makeList#0;class#SubmitResume#0" />
-            <element signature="method#makeStyleSheet#0;class#SubmitResume#0" />
-            <element signature="method#showConfirmation#0;class#SubmitResume#0" />
-            <element signature="method#storeResume#0;class#SubmitResume#0" />
-            <element signature="method#putInSpamList#0;class#SubmitResume#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/form/InsuranceInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/servlets/ServletUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/servlets/GenericServletDemoServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/CodeForm.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -1033,86 +1070,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="14" column="72" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/BidForm.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/form/BadCodeServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/form/BeanUtilities.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/servlets/LotteryNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/servlets/MyServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/form/BidInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/form/GoodCodeServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/form/BidServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-          <folding>
-            <element signature="method#doGet#0;class#BidServlet#0" />
-            <element signature="method#showBid#0;class#BidServlet#0" />
-            <element signature="method#showEntryForm#0;class#BidServlet#0" />
-            <element signature="method#submitBid#0;class#BidServlet#0" />
-            <element signature="method#warning#0;class#BidServlet#0" />
-            <element signature="method#inputElement#0;class#BidServlet#0" />
-            <element signature="method#inputElement#1;class#BidServlet#0" />
-            <element signature="method#checkbox#0;class#BidServlet#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/form/ServletUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/form/SubmitInsuranceInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -1130,17 +1087,156 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/servlets/ServletConfigDemoServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="20" column="75" selection-start-line="20" selection-start-column="75" selection-end-line="20" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlets/GenericServletDemoServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlets/MyServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlets/ServletConfigDemoServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25">
+          <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlets/ServletUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlets/LotteryNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/form/BadCodeServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/form/BidInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/form/GoodCodeServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding>
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/form/InsuranceInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/form/ShowParams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/form/ServletUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/form/BeanUtilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/form/SubmitInsuranceInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/form/SubmitResume.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1075">
+          <caret line="174" column="25" selection-start-line="174" selection-start-column="25" selection-end-line="174" selection-end-column="25" />
+          <folding>
+            <element signature="method#doGet#0;class#SubmitResume#0" />
+            <element signature="method#doPost#0;class#SubmitResume#0" />
+            <element signature="method#showPreview#0;class#SubmitResume#0" />
+            <element signature="method#replaceIfMissing#0;class#SubmitResume#0" />
+            <element signature="method#replaceIfMissingOrDefault#0;class#SubmitResume#0" />
+            <element signature="method#getSize#0;class#SubmitResume#0" />
+            <element signature="method#makeList#0;class#SubmitResume#0" />
+            <element signature="method#makeStyleSheet#0;class#SubmitResume#0" />
+            <element signature="method#showConfirmation#0;class#SubmitResume#0" />
+            <element signature="method#storeResume#0;class#SubmitResume#0" />
+            <element signature="method#putInSpamList#0;class#SubmitResume#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/form/ThreeParams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/form/BidServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="103" column="38" selection-start-line="103" selection-start-column="38" selection-end-line="103" selection-end-column="38" />
+          <folding>
+            <element signature="method#doGet#0;class#BidServlet#0" />
+            <element signature="method#showBid#0;class#BidServlet#0" />
+            <element signature="method#showEntryForm#0;class#BidServlet#0" />
+            <element signature="method#submitBid#0;class#BidServlet#0" />
+            <element signature="method#warning#0;class#BidServlet#0" />
+            <element signature="method#inputElement#0;class#BidServlet#0" />
+            <element signature="method#inputElement#1;class#BidServlet#0" />
+            <element signature="method#checkbox#0;class#BidServlet#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/BidForm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>

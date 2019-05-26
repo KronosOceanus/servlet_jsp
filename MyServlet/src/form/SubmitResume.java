@@ -92,7 +92,8 @@ public class SubmitResume extends HttpServlet {
 
     //参数丢失/默认替换
     private String replaceIfMissingOrDefault(String orig,String replacement){
-        if((orig == null) || (orig.trim().equals("")) || (orig.equals("default"))){
+        if((orig == null) || (orig.trim().equals("")) ||
+                (orig.equals("default"))){
             return replacement;
         }else{
             return orig + ",";

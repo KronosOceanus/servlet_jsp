@@ -1,4 +1,4 @@
-package session;
+package mall;
 
 import javax.servlet.http.HttpServletRequest;
 

@@ -8,9 +8,19 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>$Title$</title>
+    <title>Baked Bean Values: session-based Sharing</title>
 </head>
 <body>
-$END$
+<center>
+    <h1>Baked Bean Value: session-based Sharing</h1>
+    <%-- 设置会话共享 --%>
+    <jsp:useBean id="sessionBean" class="share.BakedBean"
+            scope="session"/>
+    <jsp:setProperty name="sessionBean" property="*" />
+    <h2>Bean level: </h2>
+    <jsp:getProperty name="sessionBean" property="level" />
+    <h2>Dish bean goes with:</h2>
+    <jsp:getProperty name="sessionBean" property="goesWith" />
+</center>
 </body>
 </html>

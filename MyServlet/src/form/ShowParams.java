@@ -48,8 +48,8 @@ public class ShowParams extends HttpServlet {
                 out.println("<I>No Value</I>");
             }else {
                 out.println("<UL>");
-                for (int i=0;i<paramValues.length;i++){
-                    out.println("<LI>" + paramValues[i] + "</LI>");
+                for (String paramValue : paramValues) {
+                    out.println("<LI>" + paramValue + "</LI>");
                 }
                 out.println("</UL>");
             }

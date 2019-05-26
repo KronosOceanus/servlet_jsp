@@ -1,5 +1,10 @@
+package session;
+
 import javax.servlet.http.HttpServletRequest;
 
+/**
+ * 工具类
+ */
 public class ServletUtils {
 
     //通过参数名得到整形参数（没有则返回默认值）

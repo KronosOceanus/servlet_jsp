@@ -1,0 +1,32 @@
+构建一个新的bean（看做_jspService方法的局部变量）
+    <jsp:useBean id="beanName" class="package.class" />
+        等价于<% package.class class1 = new package.class(); %>（创建一个新对象）
+
+读取或输出bean属性的值的两种方式（避免混合使用）
+    <jsp:getProperty name="beanName" property="propertyName" />
+    <%= class1.getPropertyName() %>
+设置属性
+    <jsp:setProperty name="class1" property="propertyName"
+            value="Core Servlets and JavaServer Pages" />
+    <% class1.setPropertyName("Core Servlets and JavaServer Pages") %>
+也可以直接用属性关联（省去类型强制转换）
+    <jsp:setProperty name="class1" property="propertyName" param="propertyName" />
+全部关联
+    <jsp:setProperty name="class1" property="*" />
+
+共享bean（如果不存在则创建新的bean）
+<jsp:useBean ... scope="" />
+scope属性有4个可选值：
+page（默认/不共享）
+    表示在处理请求期间，不仅将bean对象绑定到局部变量（之后都是），还将它放在
+        pageContext对象中，可以通过预定义变量pageContext的getAttribute方法访问它
+request（同请求共享）
+    放在HttpServletRequest中，通过getAttribute方法访问
+        在使用jsp:include时，两个jsp页面/jsp页面和Servlet将会共享请求对象
+session（会话共享）
+    储存在与当前请求相关联的HttpSession对象中，通过getAttribute方法访问
+application（全局共享）
+    储存在ServletContext中，通过getAttribute方法访问
+
+只有第一次访问创建bean的方法
+<jsp:useBean ... /><jsp:setProperty .../><jsp:useBean>

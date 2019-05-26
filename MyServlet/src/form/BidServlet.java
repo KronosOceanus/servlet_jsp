@@ -10,7 +10,7 @@ import java.io.PrintWriter;
 
 /**
  * 若参数不完全
- * 重新显示表单
+ * 重新显示表单（之后使用重定向）
  */
 @WebServlet(name = "form.BidServlet",
     urlPatterns = {"/form.BidServlet"})
@@ -101,7 +101,7 @@ public class BidServlet extends HttpServlet {
 
     /**
      * 参数不完全处理（再次修改）
-     * 参数（提示信息，输入框name，参数内容，是否需要提示）
+     * 参数（表单参数名称，输入框name，参数内容，是否需要提示输入）
      */
     private String inputElement(String prompt,String name,
                                 String value, boolean shouldPrompt){

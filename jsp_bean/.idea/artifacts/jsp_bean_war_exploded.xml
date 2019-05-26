@@ -1,0 +1,49 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="jsp_bean:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/jsp_bean_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="jsp_bean" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/el-api.jar" />
+          <element id="file-copy" path="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/jasper.jar" />
+          <element id="file-copy" path="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/jsp-api.jar" />
+          <element id="file-copy" path="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/catalina.jar" />
+          <element id="file-copy" path="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/ecj-4.10.jar" />
+          <element id="file-copy" path="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/jasper-el.jar" />
+          <element id="file-copy" path="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/jaspic-api.jar" />
+          <element id="file-copy" path="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/tomcat-api.jar" />
+          <element id="file-copy" path="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/tomcat-jni.jar" />
+          <element id="file-copy" path="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/catalina-ha.jar" />
+          <element id="file-copy" path="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/servlet-api.jar" />
+          <element id="file-copy" path="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/tomcat-dbcp.jar" />
+          <element id="file-copy" path="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/tomcat-jdbc.jar" />
+          <element id="file-copy" path="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/tomcat-util.jar" />
+          <element id="file-copy" path="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/catalina-ant.jar" />
+          <element id="file-copy" path="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/tomcat-coyote.jar" />
+          <element id="file-copy" path="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/websocket-api.jar" />
+          <element id="file-copy" path="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/tomcat-i18n-cs.jar" />
+          <element id="file-copy" path="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/tomcat-i18n-de.jar" />
+          <element id="file-copy" path="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/tomcat-i18n-es.jar" />
+          <element id="file-copy" path="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/tomcat-i18n-fr.jar" />
+          <element id="file-copy" path="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/tomcat-i18n-ja.jar" />
+          <element id="file-copy" path="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/tomcat-i18n-ko.jar" />
+          <element id="file-copy" path="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/tomcat-i18n-ru.jar" />
+          <element id="file-copy" path="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/annotations-api.jar" />
+          <element id="file-copy" path="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/catalina-tribes.jar" />
+          <element id="file-copy" path="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/tomcat-util-scan.jar" />
+          <element id="file-copy" path="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/tomcat-websocket.jar" />
+          <element id="file-copy" path="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/tomcat-i18n-pt-BR.jar" />
+          <element id="file-copy" path="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/tomcat-i18n-zh-CN.jar" />
+          <element id="file-copy" path="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/commons-logging-1.2.jar" />
+          <element id="file-copy" path="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/catalina-storeconfig.jar" />
+          <element id="file-copy" path="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/commons-beanutils-1.9.3.jar" />
+          <element id="file-copy" path="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib/commons-collections4-4.3.jar" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="jsp_bean/web/Web" />
+    </root>
+  </artifact>
+</component>

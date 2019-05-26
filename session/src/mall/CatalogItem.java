@@ -1,5 +1,8 @@
-package session;
+package mall;
 
+/**
+ * 商品列表项
+ */
 public class CatalogItem {
 
     private String itemID;

@@ -1,0 +1,17 @@
+Request
+    Http请求
+Response
+    客户响应
+Out
+    PrintWriter
+Session
+    会话
+Application
+    ServletContext
+Config
+    ServletConfig
+PageContext
+    jsp引入的类，通过它可以访问页面的许多属性
+        拥有getRequest,getResponse,getOut,getSession等方法
+Page
+    this的同义词（作用不大）

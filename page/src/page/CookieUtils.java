@@ -1,9 +1,10 @@
-package cookie;
+package page;
 
 import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServletRequest;
 
 /**
+ * （重点在part.jsp）
  * 根据名称获取Cookie或者Value
  */
 public class CookieUtils {
