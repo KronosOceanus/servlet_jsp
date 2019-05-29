@@ -11,5 +11,11 @@
     <title>$Title$</title>
   </head>
   <body>
+  <center>
+    <form action="wwhm.jpg" >
+      <input type="image" name="map" src="wwhm.jpg" width="1300px" height="812px"/>
+    </form>
+    <img src="wwhm.jpg" width="1300px" height="812px" />
+  </center>
   </body>
 </html>

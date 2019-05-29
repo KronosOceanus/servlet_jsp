@@ -7,91 +7,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3e36058-8e9c-403e-a262-568ea3cbcbd9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../MVC/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MVC/note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp+java/src/jsp_java/RanUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp+java/web/RandomList1.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp+java/web/RandomList2.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp+java/web/RandomNums.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp+java/web/SemiRandomNumber.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_bean/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_bean/src/higher/SaleEntry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_bean/src/jsp_bean/StringBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_bean/src/share/AccessCountBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_bean/src/share/BakedBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_bean/src/share/BakedBeanTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_bean/web/StringBean.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_bean/web/baked_bean/BakedBeanDisplay-application.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_bean/web/baked_bean/BakedBeanDisplay-page.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_bean/web/baked_bean/BakedBeanDisplay-request.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_bean/web/baked_bean/BakedBeanDisplay-session.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_bean/web/baked_bean/BakedBeanDisplay-snippet.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_bean/web/sale_entry/SaleEntry-Form.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_bean/web/sale_entry/SaleEntry1.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_bean/web/sale_entry/SaleEntry2.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_bean/web/sale_entry/SaleEntry3.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_bean/web/shared_counts/SharedCounts1.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_bean/web/shared_counts/SharedCounts2.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_bean/笔记.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_include/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_include/jsp_include与include指令的对比.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_include/web/SomeRandomPage.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_include/web/WEB-INF/ContactSection.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_include/web/WEB-INF/newsi_tem/Item1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_include/web/WEB-INF/newsi_tem/Item2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_include/web/WEB-INF/newsi_tem/Item3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_include/web/WhatsNew.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_include/web/jsp_param/JspParam.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_include/web/jsp_param/JspParamBGColor.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_include/web/jsp_param/SubmitJspParam.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_include/笔记.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../page/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../page/src/page/CookieUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../page/web/ImportAttribute.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../page/web/part.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/MyServlet_war_exploded/WEB-INF/classes/form/ShowParams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/MyServlet_war_exploded/WEB-INF/classes/form/ShowParams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/MyServlet_war_exploded/WEB-INF/classes/form/SubmitResume.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/MyServlet_war_exploded/WEB-INF/classes/form/SubmitResume.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/form/BidServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/form/BidServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/form/ShowParams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/form/ShowParams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/form/SubmitResume.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/form/SubmitResume.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/form/ShowParams.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/form/ShowParams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/form/SubmitResume.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/form/SubmitResume.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cookie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cookie/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../http3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../http3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jsp+java/src/jsp_java/RandomNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/src/jsp_java/RandomNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jsp+java/src/jsp_java/SomeHeading.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/src/jsp_java/SomeHeading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jsp+java/web/AccessCounts.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/AccessCounts.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jsp+java/web/BGColor.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/BGColor.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jsp+java/web/DayWish.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/DayWish.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jsp+java/web/Expressions.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/Expressions.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jsp+java/web/RandomNumber.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/RandomNumber.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jsp+java/web/SomeHeading.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/SomeHeading.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jsp+java/web/ThreeParams.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/ThreeParams.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jsp+java/web/ThreeParamsForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/web/ThreeParamsForm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jsp+java/预定义变量.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/预定义变量.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/src/mall/Catalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/Catalog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/src/mall/CatalogItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/CatalogItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/src/mall/CatalogPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/CatalogPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/src/mall/ItemOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/ItemOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/src/mall/KidsBooksPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/KidsBooksPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/src/mall/OrderPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/OrderPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/src/mall/ServletUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/ServletUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/src/mall/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/ShoppingCart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/src/mall/TechBooksPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/TechBooksPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/src/session/ServletUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/session/ServletUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/src/session/ShowItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/session/ShowItems.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/src/session/ShowSession.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/session/ShowSession.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/web/Checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/../session/web/Checkout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/web/OrderForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/../session/web/OrderForm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/对发往客户的URL编码.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/对发往客户的URL编码.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/核心API介绍.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/核心API介绍.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/核心类介绍.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/核心类介绍.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/自己实现会话跟踪/URL重写.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/自己实现会话跟踪/URL重写.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/自己实现会话跟踪/cookie实现.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/自己实现会话跟踪/cookie实现.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/自己实现会话跟踪/隐藏的表单域.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/自己实现会话跟踪/隐藏的表单域.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc/note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp_el/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp_el/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp_el/out/production/jsp_el/el/BeanProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp_el/out/production/jsp_el/el/Collectionss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp_el/out/production/jsp_el/el/CompanyBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp_el/out/production/jsp_el/el/EmployeeBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp_el/out/production/jsp_el/el/NameBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp_el/out/production/jsp_el/el/ScopedVars.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -306,6 +230,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -344,7 +269,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -861,11 +785,12 @@
       <workItem from="1558267078359" duration="45000" />
       <workItem from="1558603010080" duration="385000" />
       <workItem from="1558696224832" duration="25000" />
+      <workItem from="1558962365465" duration="8000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48687000" />
+    <option name="totallyTimeSpent" value="48695000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -879,7 +804,7 @@
   <component name="ToolWindowManager">
     <frame x="108" y="32" width="1200" height="772" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5063291" visible="true" weight="0.36777583" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5063291" visible="true" weight="0.37478107" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
