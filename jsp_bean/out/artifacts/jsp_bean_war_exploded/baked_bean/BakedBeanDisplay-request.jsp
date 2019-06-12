@@ -13,6 +13,7 @@
 <body>
 <center>
     <h1>Baked Bean Value: request-based Sharing</h1>
+    <%-- 设置同请求共享 --%>
     <jsp:useBean id="requestBean" class="share.BakedBean"
             scope="request"/>
     <%-- 关联所有参数 --%>

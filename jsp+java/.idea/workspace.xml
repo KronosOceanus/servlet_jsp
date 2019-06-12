@@ -7,49 +7,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c657d55-47e7-4d85-8bb2-821c2850227f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/jsp_java/RanUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/RandomList1.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/RandomList2.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/RandomNums.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/SemiRandomNumber.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Http/HTTP请求报头与CGI变量等价物.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../session/Session介绍.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../session/自己实现会话跟踪.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Form/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Form/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http/CGI变量等价物.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http/HTTP请求报头介绍.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http/out/artifacts/Http_war_exploded/WEB-INF/classes/http/BrowserInsult.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/out/artifacts/Http_war_exploded/WEB-INF/classes/http/BrowserInsult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http/out/artifacts/Http_war_exploded/WEB-INF/classes/http/GzipUtilities.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/out/artifacts/Http_war_exploded/WEB-INF/classes/http/GzipUtilities.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http/out/artifacts/Http_war_exploded/WEB-INF/classes/http/ShowCGIVariables.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/out/artifacts/Http_war_exploded/WEB-INF/classes/http/ShowCGIVariables.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http/out/artifacts/Http_war_exploded/WEB-INF/classes/http/ShowRequestHeaders.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/out/artifacts/Http_war_exploded/WEB-INF/classes/http/ShowRequestHeaders.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http/out/production/Http/http/BrowserInsult.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/out/production/Http/http/BrowserInsult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http/out/production/Http/http/GzipUtilities.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/out/production/Http/http/GzipUtilities.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http/out/production/Http/http/ShowCGIVariables.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/out/production/Http/http/ShowCGIVariables.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http/out/production/Http/http/ShowRequestHeaders.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/out/production/Http/http/ShowRequestHeaders.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http/src/http/BrowserInsult.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/src/http/BrowserInsult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http/src/http/GzipUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/src/http/GzipUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http/src/http/ShowRequestHeaders.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/src/http/ShowRequestHeaders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Http2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http2/out/artifacts/Http2_war_exploded/WEB-INF/classes/http2/SearchUtilities.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Http2/out/artifacts/Http2_war_exploded/WEB-INF/classes/http2/SearchUtilities.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http2/out/production/Http2/http2/SearchUtilities.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Http2/out/production/Http2/http2/SearchUtilities.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http2/src/http2/SearchUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Http2/src/http2/SearchUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http2/状态代码.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Http2/状态代码.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyServlet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyServlet/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyServlet/src/form/BidServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyServlet/src/form/BidServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyServlet/src/form/ShowParams.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyServlet/src/form/ShowParams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyServlet/src/form/SubmitResume.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyServlet/src/form/SubmitResume.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyServlet/src/form/BeanUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyServlet/src/form/BeanUtilities.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cookie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cookie/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jsp_java/RandomNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jsp_java/RandomNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jsp_java/SomeHeading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jsp_java/SomeHeading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/AccessCounts.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/AccessCounts.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/BGColor.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/BGColor.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/DayWish.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/DayWish.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/Expressions.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/Expressions.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/RandomNumber.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/RandomNumber.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/SomeHeading.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/SomeHeading.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/ThreeParams.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/ThreeParams.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/ThreeParamsForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/ThreeParamsForm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/预定义变量.java" beforeDir="false" afterPath="$PROJECT_DIR$/预定义变量.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cookie/使用Cookie属性.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cookie/使用Cookie属性.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../http3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../http3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../http3/Http1.1请求报头.java" beforeDir="false" afterPath="$PROJECT_DIR$/../http3/Http1.1请求报头.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../http3/out/artifacts/http3_war_exploded/WEB-INF/classes/http3/MessageImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../http3/out/artifacts/http3_war_exploded/WEB-INF/classes/http3/MessageImage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../http3/out/production/http3/http3/MessageImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../http3/out/production/http3/http3/MessageImage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/预定义变量.java" beforeDir="false" afterPath="$PROJECT_DIR$/预定义变量.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../session/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/src/mall/Catalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/Catalog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/src/mall/CatalogItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/CatalogItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/src/mall/CatalogPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/CatalogPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/src/mall/ItemOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/ItemOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/src/mall/KidsBooksPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/KidsBooksPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/src/mall/OrderPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/OrderPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/src/mall/ServletUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/ServletUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/src/mall/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/ShoppingCart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/src/mall/TechBooksPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/mall/TechBooksPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/src/session/ServletUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/session/ServletUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/src/session/ShowItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/session/ShowItems.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/src/session/ShowSession.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/src/session/ShowSession.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/web/Checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/../session/web/Checkout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/web/OrderForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/../session/web/OrderForm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/对发往客户的URL编码.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/对发往客户的URL编码.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/核心API介绍.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/核心API介绍.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/核心类介绍.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/核心类介绍.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/自己实现会话跟踪/URL重写.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/自己实现会话跟踪/URL重写.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/自己实现会话跟踪/cookie实现.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/自己实现会话跟踪/cookie实现.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/自己实现会话跟踪/隐藏的表单域.java" beforeDir="false" afterPath="$PROJECT_DIR$/../session/自己实现会话跟踪/隐藏的表单域.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/对发往客户的URL编码.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/核心API介绍.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/核心类介绍.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/自己实现会话跟踪/URL重写.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/自己实现会话跟踪/cookie实现.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/自己实现会话跟踪/隐藏的表单域.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,11 +58,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/预定义变量.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/预定义变量.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="175">
+                <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -72,30 +73,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/jsp_java/RanUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="17" column="49" lean-forward="true" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
-              <folding>
-                <element signature="e#90#91#0" expanded="true" />
-                <element signature="e#138#139#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="375">
+              <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/RandomNums.jsp">
+        <entry file="file://$PROJECT_DIR$/src/jsp_java/SomeHeading.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+            <state relative-caret-position="275">
+              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/RandomList1.jsp">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/DayWish.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            <state relative-caret-position="300">
+              <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -103,26 +100,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/RandomList2.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="400">
+              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/SemiRandomNumber.jsp">
+        <entry file="file://$PROJECT_DIR$/web/AccessCounts.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+            <state relative-caret-position="475">
+              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+        <entry file="file://$PROJECT_DIR$/src/jsp_java/RandomNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            <state relative-caret-position="125">
+              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -130,17 +127,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/BGColor.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
+            <state relative-caret-position="389">
               <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/ThreeParams.jsp">
+        <entry file="file://$PROJECT_DIR$/web/RandomList1.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            <state relative-caret-position="75">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -190,6 +187,7 @@
         <option value="$PROJECT_DIR$/web/RandomList1.jsp" />
         <option value="$PROJECT_DIR$/web/RandomList2.jsp" />
         <option value="$PROJECT_DIR$/web/SemiRandomNumber.jsp" />
+        <option value="$PROJECT_DIR$/预定义变量.md" />
       </list>
     </option>
   </component>
@@ -201,7 +199,7 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="57" />
+    <option name="x" value="55" />
     <option name="width" value="1400" />
     <option name="height" value="1035" />
   </component>
@@ -213,6 +211,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -241,15 +240,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558351583844" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cookie" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560330408574" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -534,7 +532,7 @@
       <deployment>
         <artifact name="jsp+java:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/jsp_java_war_exploded" />
+            <option name="CONTEXT_PATH" value="" />
           </settings>
         </artifact>
       </deployment>
@@ -703,17 +701,19 @@
       <workItem from="1558264862349" duration="6483000" />
       <workItem from="1558273017011" duration="131000" />
       <workItem from="1558349233812" duration="1978000" />
+      <workItem from="1560330317594" duration="117000" />
+      <workItem from="1560330527030" duration="57000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8592000" />
+    <option name="totallyTimeSpent" value="8766000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="46" y="0" width="1120" height="828" extended-state="0" />
+    <frame x="44" y="0" width="1120" height="828" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25894538" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26836157" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -723,7 +723,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32902297" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3275862" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -752,13 +752,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/web/ThreeParams.html" />
-    <entry file="file://$PROJECT_DIR$/web/DayWish.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/Expressions.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -780,24 +773,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jsp_java/SomeHeading.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="24" />
-          <folding>
-            <element signature="e#412#413#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/AccessCounts.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -814,31 +789,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jsp_java/RandomNumber.java">
+    <entry file="file://$PROJECT_DIR$/web/RandomNums.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="19" />
+        <state relative-caret-position="325">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/BGColor.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/ThreeParams.jsp">
+    <entry file="file://$PROJECT_DIR$/web/SemiRandomNumber.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/ThreeParamsForm.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -849,49 +810,88 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/预定义变量.java">
+    <entry file="file://$PROJECT_DIR$/web/ThreeParams.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
-          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jsp_java/RanUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="49" lean-forward="true" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
-          <folding>
-            <element signature="e#90#91#0" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="375">
+          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/RandomNums.jsp">
+    <entry file="file://$PROJECT_DIR$/src/jsp_java/SomeHeading.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        <state relative-caret-position="275">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/DayWish.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/RandomList2.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        <state relative-caret-position="400">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/SemiRandomNumber.jsp">
+    <entry file="file://$PROJECT_DIR$/web/AccessCounts.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        <state relative-caret-position="475">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jsp_java/RandomNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/RandomList1.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/ThreeParamsForm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/BGColor.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/预定义变量.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="175">
+            <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

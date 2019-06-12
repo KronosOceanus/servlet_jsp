@@ -17,6 +17,7 @@ public class BeanUtilities {
         populateBean(formBean,req.getParameterMap());
     }
 
+    //以参数Map填充
     public static void populateBean(Object bean,
                                     Map propertyMap){
         try{

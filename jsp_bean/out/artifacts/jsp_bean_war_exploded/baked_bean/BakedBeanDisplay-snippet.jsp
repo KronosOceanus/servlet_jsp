@@ -13,8 +13,9 @@
 <body>
 <center>
     <h1>Repeated Baked Bean Values: request-based Sharing</h1>
+    <%-- 设置次页面共享 --%>
     <jsp:useBean id="requestBean" class="share.BakedBean"
-                 scope="request"/>
+             scope="request"/>
     <h2>Bean level: </h2>
     <jsp:getProperty name="requestBean" property="level" />
     <h2>Dish bean goes with: </h2>

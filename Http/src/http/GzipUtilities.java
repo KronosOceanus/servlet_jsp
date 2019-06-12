@@ -13,6 +13,7 @@ public class GzipUtilities {
 
     //浏览器是否支持gzip
     public static boolean isGzipSupported(HttpServletRequest req){
+        //对 gzip 的支持在 Accept-Encoding 中
         String encodings = req.getHeader("Accept-Encoding");
         return encodings != null &&
                 encodings.contains("gzip");
@@ -28,6 +29,7 @@ public class GzipUtilities {
     //得到gzipWriter
     public static PrintWriter getGzipWriter(HttpServletResponse resp)
         throws IOException{
+        //输出流包装成 gzip 输出流，再变成Writer
         return new PrintWriter(new GZIPOutputStream(resp.getOutputStream()));
     }
 }

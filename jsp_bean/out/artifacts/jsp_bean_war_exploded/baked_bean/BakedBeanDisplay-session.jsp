@@ -13,7 +13,9 @@
 <body>
 <center>
     <h1>Baked Bean Value: session-based Sharing</h1>
-    <jsp:useBean id="sessionBean" class="share.BakedBean" />
+    <%-- 设置会话共享 --%>
+    <jsp:useBean id="sessionBean" class="share.BakedBean"
+            scope="session"/>
     <jsp:setProperty name="sessionBean" property="*" />
     <h2>Bean level: </h2>
     <jsp:getProperty name="sessionBean" property="level" />

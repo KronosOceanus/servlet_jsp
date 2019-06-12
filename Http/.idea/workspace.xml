@@ -7,12 +7,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa5b8ec7-ee19-45bb-b310-35151d61a754" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../http3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../http3/MIME类型.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTTP请求报头与CGI变量等价物.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../session/Session介绍.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../session/自己实现会话跟踪.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Form/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Form/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../http3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../http3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../http3/Http1.1请求报头.java" beforeDir="false" afterPath="$PROJECT_DIR$/../http3/Http1.1请求报头.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CGI变量等价物.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTP请求报头介绍.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Http_war_exploded/WEB-INF/classes/http/BrowserInsult.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Http_war_exploded/WEB-INF/classes/http/BrowserInsult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Http_war_exploded/WEB-INF/classes/http/GzipUtilities.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Http_war_exploded/WEB-INF/classes/http/GzipUtilities.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Http_war_exploded/WEB-INF/classes/http/ShowCGIVariables.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Http_war_exploded/WEB-INF/classes/http/ShowCGIVariables.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Http/http/BrowserInsult.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Http/http/BrowserInsult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Http/http/GzipUtilities.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Http/http/GzipUtilities.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Http/http/ShowCGIVariables.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Http/http/ShowCGIVariables.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Http/http/ShowRequestHeaders.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Http/http/ShowRequestHeaders.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/http/BrowserInsult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/http/BrowserInsult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/http/GzipUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/http/GzipUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/http/ShowRequestHeaders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/http/ShowRequestHeaders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Http2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http2/out/artifacts/Http2_war_exploded/WEB-INF/classes/http2/SearchUtilities.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Http2/out/artifacts/Http2_war_exploded/WEB-INF/classes/http2/SearchUtilities.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http2/out/production/Http2/http2/SearchUtilities.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Http2/out/production/Http2/http2/SearchUtilities.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http2/src/http2/SearchUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Http2/src/http2/SearchUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http2/状态代码.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Http2/状态代码.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyServlet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyServlet/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyServlet/src/form/BeanUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyServlet/src/form/BeanUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/out/production/session/mall/Catalog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/out/production/session/mall/CatalogItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/out/production/session/mall/CatalogPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/out/production/session/mall/ItemOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/out/production/session/mall/KidsBooksPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/out/production/session/mall/OrderPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/out/production/session/mall/ServletUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/out/production/session/mall/ShoppingCart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/out/production/session/mall/TechBooksPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/out/production/session/session/ServletUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/out/production/session/session/ShowItems.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/out/production/session/session/ShowSession.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/对发往客户的URL编码.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/核心API介绍.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/核心类介绍.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/自己实现会话跟踪/URL重写.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/自己实现会话跟踪/cookie实现.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session/自己实现会话跟踪/隐藏的表单域.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,17 +64,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/http/GzipUtilities.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            <state relative-caret-position="675">
+              <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HTTP请求报头介绍.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/http/LongServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+            <state relative-caret-position="450">
+              <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -44,26 +82,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/http/CustomizeImage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+            <state relative-caret-position="825">
+              <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/Img_2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CGI变量等价物.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HTTP请求报头与CGI变量等价物.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="297">
+                <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -71,8 +103,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/http/ShowCGIVariables.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="24" column="55" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
+            <state relative-caret-position="775">
+              <caret line="39" column="49" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/http/ShowRequestHeaders.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="373">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -80,8 +121,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/Img_1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="11" selection-end-column="7" />
+            <state relative-caret-position="275">
+              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -89,8 +130,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/http/BrowserInsult.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+            <state relative-caret-position="650">
+              <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -108,7 +149,7 @@
         <entry file="file://$PROJECT_DIR$/src/http/ServletUtils.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -130,17 +171,18 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/http/ServletUtils.java" />
-        <option value="$PROJECT_DIR$/src/http/ShowRequestHeaders.java" />
-        <option value="$PROJECT_DIR$/HTTP请求报头介绍.java" />
-        <option value="$PROJECT_DIR$/src/http/GzipUtilities.java" />
         <option value="$PROJECT_DIR$/src/http/LongServlet.java" />
-        <option value="$PROJECT_DIR$/src/http/BrowserInsult.java" />
         <option value="$PROJECT_DIR$/web/Img_1.html" />
         <option value="$PROJECT_DIR$/src/http/CustomizeImage.java" />
         <option value="$PROJECT_DIR$/web/Img_2.html" />
         <option value="$PROJECT_DIR$/CGI变量等价物.java" />
         <option value="$PROJECT_DIR$/web/index.jsp" />
         <option value="$PROJECT_DIR$/src/http/ShowCGIVariables.java" />
+        <option value="$PROJECT_DIR$/HTTP请求报头介绍.java" />
+        <option value="$PROJECT_DIR$/src/http/BrowserInsult.java" />
+        <option value="$PROJECT_DIR$/src/http/GzipUtilities.java" />
+        <option value="$PROJECT_DIR$/src/http/ShowRequestHeaders.java" />
+        <option value="$PROJECT_DIR$/HTTP请求报头与CGI变量等价物.md" />
       </list>
     </option>
   </component>
@@ -157,14 +199,14 @@
     <option name="width" value="1500" />
     <option name="height" value="965" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,13 +234,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557491855117" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560328157894" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -230,14 +274,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.jsp">
+  <component name="RunManager" selected="Tomcat Server.Img_1.html (1)">
     <configuration name="Img_2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/Img_2.html">
       <method v="2" />
     </configuration>
     <configuration name="index.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/Http_war_exploded/index.jsp">
       <method v="2" />
     </configuration>
-    <configuration name="Img_1.html" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 9.0.19" ALTERNATIVE_JRE_ENABLED="false">
+    <configuration name="Img_1.html (1)" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 9.0.19" ALTERNATIVE_JRE_ENABLED="false">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/Img_1.html" />
       <deployment>
         <artifact name="Http:war exploded">
@@ -247,7 +291,7 @@
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Img_1_html_Http" />
+        <option name="BASE_DIRECTORY_NAME" value="Img_1_html_(1)_Http" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -255,7 +299,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="10361" />
+        <option name="DEBUG_PORT" value="52586" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -528,17 +572,17 @@
       <item itemvalue="JavaScript Debug.Img_2.html" />
       <item itemvalue="JavaScript Debug.index.jsp" />
       <item itemvalue="Tomcat Server.Tomcat 9.0.19" />
-      <item itemvalue="Tomcat Server.Img_1.html" />
       <item itemvalue="Tomcat Server.Img_2.html" />
       <item itemvalue="Tomcat Server.index.jsp (1)" />
+      <item itemvalue="Tomcat Server.Img_1.html (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Tomcat Server.index.jsp (1)" />
+        <item itemvalue="Tomcat Server.Img_1.html (1)" />
         <item itemvalue="JavaScript Debug.index.jsp" />
+        <item itemvalue="Tomcat Server.index.jsp (1)" />
         <item itemvalue="Tomcat Server.Img_2.html" />
         <item itemvalue="JavaScript Debug.Img_2.html" />
-        <item itemvalue="Tomcat Server.Img_1.html" />
       </list>
     </recent_temporary>
   </component>
@@ -558,17 +602,29 @@
       <workItem from="1557489684856" duration="2187000" />
       <workItem from="1557563699434" duration="41000" />
       <workItem from="1557624378474" duration="650000" />
+      <workItem from="1560327867548" duration="304000" />
+      <workItem from="1560328178501" duration="285000" />
+      <workItem from="1560329715800" duration="268000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13147000" />
+    <option name="totallyTimeSpent" value="14004000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="120" y="24" width="1200" height="772" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2714536" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28633976" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -582,17 +638,17 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Application Servers" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3296875" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3296875" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3296875" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3296875" />
       <window_info anchor="bottom" id="Messages" order="11" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.3296875" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24956217" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Maven" order="3" />
       <window_info anchor="right" id="Palette" order="4" />
@@ -605,6 +661,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Http.iml">
       <provider selected="true" editor-type-id="text-editor">
@@ -613,34 +673,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/http/ShowRequestHeaders.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/http/LongServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/http/GzipUtilities.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/http/CustomizeImage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTP请求报头介绍.java" />
+    <entry file="file://$PROJECT_DIR$/CGI变量等价物.java" />
     <entry file="file://$PROJECT_DIR$/web/Img_2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -648,24 +682,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CGI变量等价物.java">
+    <entry file="file://$PROJECT_DIR$/src/http/GzipUtilities.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        <state relative-caret-position="675">
+          <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/http/LongServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/http/CustomizeImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/http/ShowCGIVariables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="39" column="49" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/Img_1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="11" selection-end-column="7" />
+        <state relative-caret-position="275">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/http/BrowserInsult.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        <state relative-caret-position="650">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -679,21 +734,29 @@
     <entry file="file://$PROJECT_DIR$/src/http/ServletUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/http/ShowCGIVariables.java">
+    <entry file="file://$PROJECT_DIR$/src/http/ShowRequestHeaders.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="24" column="55" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
+        <state relative-caret-position="373">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTTP请求报头介绍.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+    <entry file="file://$PROJECT_DIR$/HTTP请求报头与CGI变量等价物.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="27" column="4" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="297">
+            <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

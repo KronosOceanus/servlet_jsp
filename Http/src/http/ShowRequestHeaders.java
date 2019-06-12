@@ -29,6 +29,7 @@ public class ShowRequestHeaders extends HttpServlet {
                 "<TR BGCOLOR=\"#FFAD00\">\n" +
                 "<TH>Header Name</TH>Header Value");
 
+        //输出所有请求报头
         Enumeration headerNames = req.getHeaderNames();
         while(headerNames.hasMoreElements()){
             String headerName = (String)headerNames.nextElement();

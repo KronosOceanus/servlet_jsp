@@ -7,6 +7,7 @@ package http2;
  */
 public class SearchUtilities {
 
+    //搜索站点的名称，和搜索URL
     private static SearchSpec[] commonSpecs = {
             new SearchSpec("Google",
                     "http://www.google.cn/search?q="),
@@ -14,6 +15,7 @@ public class SearchUtilities {
                     "http://www.baidu.com/s?wd="),
     };
 
+    //选择用户指定的搜索引擎，返回总URL
     public static String makeURL(String searchEngineName,
                                  String searchString){
         SearchSpec[] searchSpecs = getCommonSpecs();

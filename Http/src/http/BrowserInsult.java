@@ -21,6 +21,7 @@ public class BrowserInsult extends HttpServlet {
         resp.setContentType("text/html");
         PrintWriter out = resp.getWriter();
         String title, message;
+        //得到 User-Agent 报头
         String userAgent = req.getHeader("User-Agent");
         //包含MSIE是IE浏览器
         if (userAgent != null && userAgent.contains("MSIE")){
