@@ -7,56 +7,74 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="183b1ebe-b7d3-44b1-943d-4281ca3c684c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Http/HTTP请求报头与CGI变量等价物.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session/Session介绍.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session/自己实现会话跟踪.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/.idea/artifacts/_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/controller/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/controller/RegisterServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/dao/CommonDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/dao/IDCardDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/dao/IDCardDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/dao/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/entity/IDCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/entity/ValueObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/service/IDCardService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/service/IDCardServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/utils/AssociateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/utils/BeanUtilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/utils/JDBCExector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/utils/MD5Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/utils/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/utils/PropsUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/web/Login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/web/Register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/web/WEB-INF/LoginResult/LoginFailed.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/web/WEB-INF/LoginResult/LoginSuccessful.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/web/WEB-INF/RegisterResult/RegisterFailed.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/web/WEB-INF/RegisterResult/RegisterSuccessful.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/web/css/Sheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/web/image/flower.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/登陆管理系统.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Form/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Form/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Http/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Http/CGI变量等价物.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Http/HTTP请求报头介绍.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Http/out/artifacts/Http_war_exploded/WEB-INF/classes/http/BrowserInsult.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/out/artifacts/Http_war_exploded/WEB-INF/classes/http/BrowserInsult.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Http/out/artifacts/Http_war_exploded/WEB-INF/classes/http/GzipUtilities.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/out/artifacts/Http_war_exploded/WEB-INF/classes/http/GzipUtilities.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Http/out/artifacts/Http_war_exploded/WEB-INF/classes/http/ShowCGIVariables.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/out/artifacts/Http_war_exploded/WEB-INF/classes/http/ShowCGIVariables.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Http/out/artifacts/Http_war_exploded/WEB-INF/classes/http/ShowRequestHeaders.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/out/artifacts/Http_war_exploded/WEB-INF/classes/http/ShowRequestHeaders.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Http/out/production/Http/http/BrowserInsult.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/out/production/Http/http/BrowserInsult.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Http/out/production/Http/http/GzipUtilities.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/out/production/Http/http/GzipUtilities.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Http/out/production/Http/http/ShowCGIVariables.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/out/production/Http/http/ShowCGIVariables.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Http/out/production/Http/http/ShowRequestHeaders.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/out/production/Http/http/ShowRequestHeaders.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Http/src/http/BrowserInsult.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/src/http/BrowserInsult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Http/src/http/GzipUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/src/http/GzipUtilities.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Http/src/http/ShowRequestHeaders.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/src/http/ShowRequestHeaders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http/out/production/Http/http/BrowserInsult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http/out/production/Http/http/CustomizeImage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http/out/production/Http/http/GzipUtilities.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http/out/production/Http/http/LongServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http/out/production/Http/http/ServletUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http/out/production/Http/http/ShowCGIVariables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http/out/production/Http/http/ShowRequestHeaders.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Http2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Http2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Http2/out/artifacts/Http2_war_exploded/WEB-INF/classes/http2/SearchUtilities.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Http2/out/artifacts/Http2_war_exploded/WEB-INF/classes/http2/SearchUtilities.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Http2/out/production/Http2/http2/SearchUtilities.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Http2/out/production/Http2/http2/SearchUtilities.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Http2/src/http2/SearchUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Http2/src/http2/SearchUtilities.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Http2/状态代码.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Http2/状态代码.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyServlet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyServlet/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyServlet/src/form/BeanUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyServlet/src/form/BeanUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http2/out/production/Http2/http2/SearchEngines.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http2/out/production/Http2/http2/SearchEnginesForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http2/out/production/Http2/http2/SearchSpec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http2/out/production/Http2/http2/SearchUtilities.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http2/out/production/Http2/http2/ServletUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http2/out/production/Http2/http2/WrongDestination.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MVC/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cookie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cookie/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cookie/使用Cookie属性.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cookie/使用Cookie属性.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../http3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../http3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../http3/Http1.1请求报头.java" beforeDir="false" afterPath="$PROJECT_DIR$/../http3/Http1.1请求报头.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../http3/out/artifacts/http3_war_exploded/WEB-INF/classes/http3/MessageImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../http3/out/artifacts/http3_war_exploded/WEB-INF/classes/http3/MessageImage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../http3/out/production/http3/http3/MessageImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../http3/out/production/http3/http3/MessageImage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../jsp+java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jsp+java/预定义变量.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/预定义变量.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/out/production/jsp+java/jsp_java/RanUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/out/production/jsp+java/jsp_java/RandomNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/out/production/jsp+java/jsp_java/SomeHeading.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/jsp_bean/higher/SaleEntry.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/jsp_bean/jsp_bean/StringBean.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/jsp_bean/share/AccessCountBean.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/jsp_bean/share/BakedBean.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/jsp_bean/share/BakedBeanTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/笔记.java" beforeDir="false" afterPath="$PROJECT_DIR$/笔记.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../page/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../page/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../page/out/production/page/page/CookieUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/对发往客户的URL编码.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/核心API介绍.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/核心类介绍.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/自己实现会话跟踪/URL重写.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/自己实现会话跟踪/cookie实现.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/自己实现会话跟踪/隐藏的表单域.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp_el/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp_el/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,40 +85,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/笔记.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="164">
-                <caret line="34" column="3" lean-forward="true" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/StringBean.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="29" column="59" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/shared_counts/SharedCounts1.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
+            <state relative-caret-position="925">
               <caret line="37" column="49" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
             </state>
           </provider>
@@ -109,7 +97,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/sale_entry/SaleEntry-Form.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
+            <state relative-caret-position="400">
               <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
             </state>
           </provider>
@@ -118,7 +106,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/sale_entry/SaleEntry3.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="375">
               <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="85" />
             </state>
           </provider>
@@ -156,6 +144,45 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
               <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/higher/SaleEntry.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+              <folding>
+                <element signature="e#674#675#0" expanded="true" />
+                <element signature="e#703#704#0" expanded="true" />
+                <element signature="e#918#919#0" expanded="true" />
+                <element signature="e#953#954#0" expanded="true" />
+                <element signature="e#1009#1010#0" expanded="true" />
+                <element signature="e#1057#1058#0" expanded="true" />
+                <element signature="e#1089#1090#0" expanded="true" />
+                <element signature="e#1120#1121#0" expanded="true" />
+                <element signature="e#1165#1166#0" expanded="true" />
+                <element signature="e#1205#1206#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/StringBean.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369">
+              <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/share/BakedBeanTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -239,6 +266,24 @@
             <path>
               <item name="jsp_bean" type="b2602c69:ProjectViewProjectNode" />
               <item name="jsp_bean" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="higher" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jsp_bean" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsp_bean" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp_bean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jsp_bean" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsp_bean" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="share" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jsp_bean" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsp_bean" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -252,7 +297,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558515259632" />
-    <property name="last_opened_file_path" value="D:/Software/apache-tomcat-9.0.19-windows-x64/apache-tomcat-9.0.19/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -601,17 +646,22 @@
       <workItem from="1558508739280" duration="6565000" />
       <workItem from="1560330600561" duration="105000" />
       <workItem from="1560330708908" duration="388000" />
+      <workItem from="1560773011073" duration="33000" />
+      <workItem from="1560942983541" duration="86000" />
+      <workItem from="1560943406316" duration="22000" />
+      <workItem from="1561013794848" duration="122000" />
+      <workItem from="1561014733653" duration="42000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8835000" />
+    <option name="totallyTimeSpent" value="9140000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="96" y="8" width="1120" height="828" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2636535" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29001883" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -649,42 +699,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/jsp_bean/StringBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/higher/SaleEntry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-          <folding>
-            <element signature="e#471#472#0" expanded="true" />
-            <element signature="e#520#521#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#595#596#0" expanded="true" />
-            <element signature="e#703#704#0" expanded="true" />
-            <element signature="e#953#954#0" expanded="true" />
-            <element signature="e#1057#1058#0" expanded="true" />
-            <element signature="e#1120#1121#0" expanded="true" />
-            <element signature="e#1205#1206#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/shared_counts/SharedCounts2.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/share/BakedBeanTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -723,6 +741,63 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/笔记.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="164">
+            <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jsp_bean/StringBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/shared_counts/SharedCounts1.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="37" column="49" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/sale_entry/SaleEntry-Form.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/sale_entry/SaleEntry3.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/baked_bean/BakedBeanDisplay-page.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/baked_bean/BakedBeanDisplay-snippet.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -746,58 +821,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/StringBean.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="29" column="59" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
+        <state relative-caret-position="369">
+          <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+    <entry file="file://$PROJECT_DIR$/src/share/BakedBeanTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state relative-caret-position="142">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/shared_counts/SharedCounts1.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="37" column="49" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/sale_entry/SaleEntry-Form.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/sale_entry/SaleEntry3.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/baked_bean/BakedBeanDisplay-page.jsp">
+    <entry file="file://$PROJECT_DIR$/src/higher/SaleEntry.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
-          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/笔记.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="164">
-            <caret line="34" column="3" lean-forward="true" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <folding>
+            <element signature="e#674#675#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#918#919#0" expanded="true" />
+            <element signature="e#953#954#0" expanded="true" />
+            <element signature="e#1009#1010#0" expanded="true" />
+            <element signature="e#1057#1058#0" expanded="true" />
+            <element signature="e#1089#1090#0" expanded="true" />
+            <element signature="e#1120#1121#0" expanded="true" />
+            <element signature="e#1165#1166#0" expanded="true" />
+            <element signature="e#1205#1206#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

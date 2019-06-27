@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="keywords" content="账户申请/登陆界面">
+	<meta name="description" content="艾克斯特实验室账号申请">
+    <title>Register</title>
+	<link rel="stylesheet" href="css/Sheet.css" type="text/css" />
+</head>
+<body>
+	<center>
+		<h1><b>Register</b></h1>
+		<form action="/controller.RegisterServlet">
+			<h2>Account Information</h2><br />
+			Account：<input type="text" name="account" autofocus
+						   minlength="6" maxlength="9" required="required"/><br />
+			Password：<input type="password" name="password"
+							minlength="6" maxlength="18" required="required"/><br />
+			Username：<input type="text" name="username"
+							minlength="1" maxlength="20" required="required"/><br />
+			Email：<input type="email" name="email"
+						 maxlength="25" required="required"/><br />
+			Phone：<input type="tel" name="phone"
+						 maxlength="11" required="required"/><br />
+			<p>
+			<h2>Real-name Registration</h2><br />
+			ID_Card_Number：<input type="text" name="id_card_number"
+								  minlength="18" maxlength="18" required="required"/><br />
+			Name：<input type="text" name="name"
+						minlength="2" maxlength="10" required="required" /><br />
+			Birthday：<input type="date" name="birthday" /><br />
+			Address：<input type="text" name="address" /><br />
+			</p>
+			<input type="submit" value="Register" />
+		</form>
+		<!-- 取消注册回到登陆页面 -->
+		<form action="Login.html">
+			<input type="submit" value="Cancel" />
+		</form>
+	</center>
+<article>
+</article>
+</body>
+</html>

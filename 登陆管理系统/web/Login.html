@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Main</title>
+	<link rel="stylesheet" href="css/Sheet.css" type="text/css" />
+</head>
+<body>
+	<center>
+		<h1>Login</h1><br />
+		<form action="/controller.LoginServlet">
+			Account：<input type="text" name="account"
+						   minlength="6" maxlength="9" required="required"/><br />
+			Password：<input type="password" name="password"
+							minlength="6" maxlength="18" required="required"/><br />
+			<input type="submit" value="Log in" />
+		</form>
+		<form action="Register.html">
+			<input type="submit" value="Sign up" />
+		</form>
+	</center>
+</body>
+</html>

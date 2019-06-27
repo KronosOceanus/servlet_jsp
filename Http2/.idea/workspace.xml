@@ -7,49 +7,61 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10550616-9534-4cd3-af2e-4bdd2e0c1100" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Http/HTTP请求报头与CGI变量等价物.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session/Session介绍.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session/自己实现会话跟踪.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/.idea/artifacts/_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/controller/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/controller/RegisterServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/dao/CommonDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/dao/IDCardDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/dao/IDCardDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/dao/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/entity/IDCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/entity/ValueObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/service/IDCardService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/service/IDCardServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/utils/AssociateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/utils/BeanUtilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/utils/JDBCExector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/utils/MD5Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/utils/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/src/utils/PropsUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/web/Login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/web/Register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/web/WEB-INF/RegisterResult/RegisterFailed.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/web/WEB-INF/RegisterResult/RegisterSuccessful.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/web/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../登陆管理系统/登陆管理系统.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Form/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Form/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Http/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Http/CGI变量等价物.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Http/HTTP请求报头介绍.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Http/out/artifacts/Http_war_exploded/WEB-INF/classes/http/BrowserInsult.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/out/artifacts/Http_war_exploded/WEB-INF/classes/http/BrowserInsult.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Http/out/artifacts/Http_war_exploded/WEB-INF/classes/http/GzipUtilities.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/out/artifacts/Http_war_exploded/WEB-INF/classes/http/GzipUtilities.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Http/out/artifacts/Http_war_exploded/WEB-INF/classes/http/ShowCGIVariables.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/out/artifacts/Http_war_exploded/WEB-INF/classes/http/ShowCGIVariables.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Http/out/production/Http/http/BrowserInsult.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/out/production/Http/http/BrowserInsult.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Http/out/production/Http/http/GzipUtilities.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/out/production/Http/http/GzipUtilities.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Http/out/production/Http/http/ShowCGIVariables.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/out/production/Http/http/ShowCGIVariables.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Http/out/production/Http/http/ShowRequestHeaders.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/out/production/Http/http/ShowRequestHeaders.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Http/src/http/BrowserInsult.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/src/http/BrowserInsult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Http/src/http/GzipUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/src/http/GzipUtilities.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Http/src/http/ShowRequestHeaders.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Http/src/http/ShowRequestHeaders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http/out/production/Http/http/BrowserInsult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http/out/production/Http/http/CustomizeImage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http/out/production/Http/http/GzipUtilities.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http/out/production/Http/http/LongServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http/out/production/Http/http/ServletUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http/out/production/Http/http/ShowCGIVariables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Http/out/production/Http/http/ShowRequestHeaders.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Http2_war_exploded/WEB-INF/classes/http2/SearchUtilities.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Http2_war_exploded/WEB-INF/classes/http2/SearchUtilities.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Http2/http2/SearchUtilities.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Http2/http2/SearchUtilities.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/http2/SearchUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/http2/SearchUtilities.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/状态代码.java" beforeDir="false" afterPath="$PROJECT_DIR$/状态代码.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyServlet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyServlet/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyServlet/src/form/BeanUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyServlet/src/form/BeanUtilities.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/out/production/session/mall/Catalog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/out/production/session/mall/CatalogItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/out/production/session/mall/CatalogPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/out/production/session/mall/ItemOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/out/production/session/mall/KidsBooksPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/out/production/session/mall/OrderPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/out/production/session/mall/ServletUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/out/production/session/mall/ShoppingCart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/out/production/session/mall/TechBooksPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/out/production/session/session/ServletUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/out/production/session/session/ShowItems.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/out/production/session/session/ShowSession.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/核心API介绍.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/核心类介绍.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/自己实现会话跟踪/URL重写.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/自己实现会话跟踪/cookie实现.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session/自己实现会话跟踪/隐藏的表单域.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Http2/http2/SearchEngines.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Http2/http2/SearchEnginesForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Http2/http2/SearchSpec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Http2/http2/SearchUtilities.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Http2/http2/ServletUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Http2/http2/WrongDestination.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MVC/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cookie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cookie/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../http3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../http3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp_bean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp_bean/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp_el/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp_el/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,23 +82,23 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/状态代码.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="225">
-                <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+                <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/http2/WrongDestination.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            <state relative-caret-position="274">
+              <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -94,7 +106,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/http2/SearchEngines.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
+            <state relative-caret-position="825">
               <caret line="41" selection-start-line="41" selection-end-line="41" />
             </state>
           </provider>
@@ -193,8 +205,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -222,6 +232,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -345,17 +357,19 @@
       <workItem from="1557900117184" duration="9000" />
       <workItem from="1560328496094" duration="387000" />
       <workItem from="1560329695453" duration="13000" />
+      <workItem from="1560950755478" duration="23000" />
+      <workItem from="1560950797265" duration="53000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8132000" />
+    <option name="totallyTimeSpent" value="8208000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="128" y="40" width="1200" height="772" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35726795" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36952713" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -400,10 +414,25 @@
     <entry file="file://$PROJECT_DIR$/客户端请求格式.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/http2/WrongDestination.java">
+    <entry file="file://$PROJECT_DIR$/状态代码.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/http2/SearchEngines.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        <state relative-caret-position="825">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
         </state>
       </provider>
     </entry>
@@ -442,25 +471,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/http2/SearchEngines.java">
+    <entry file="file://$PROJECT_DIR$/src/http2/WrongDestination.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/状态代码.md">
-      <provider editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="225">
-            <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
+        <state relative-caret-position="274">
+          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
         </state>
       </provider>
     </entry>
