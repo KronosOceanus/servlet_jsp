@@ -1,5 +1,5 @@
 [TOC]
-## web.xml简介
+# web.xml简介
 控制Web应用程序，有如下作用：
 * 重新分配URL
 * 指定整个Web应用和特定Servlet的初始化参数
@@ -11,7 +11,7 @@
 
 ***注意：xml是大小写敏感的***
 
-## web.xml元素简介（都是可选元素）
+# web.xml元素简介（都是可选元素）
 * servlet和servlet-mapping：
     先命名sevlet或者jsp页面，便可以配置一个或多个URL（多个使用通配符 *）
         ，可以将servlet-class换成jsp-file完成jsp的url映射
@@ -71,6 +71,7 @@
 * message-distination：
     定义一个合法的消息和目标名
     
+# 元素详细介绍    
 ## 禁用默认url NoInvoker
 创建一个新的错误页面映射覆盖当前路径（只能禁用默认的url）
 

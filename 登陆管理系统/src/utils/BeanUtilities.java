@@ -30,6 +30,7 @@ public class BeanUtilities {
         }
     }
 
+    //把一个表单封装成两个bean
     public static void dividePopulateBean(Object firstBean,Object secondBean,
                                           HttpServletRequest req){
         Map<String, ?> dividePropertyMap = req.getParameterMap();

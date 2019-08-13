@@ -22,11 +22,12 @@ import java.util.List;
 public class LoginServlet extends HttpServlet {
 
     private UserService uS;
-
+    //初始化接口
     @Override
     public void init() throws ServletException {
         uS = new UserServiceImpl(new UserDaoImpl(), new IDCardDaoImpl());
     }
+
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         User user = new User();

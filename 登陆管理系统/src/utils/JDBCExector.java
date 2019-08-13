@@ -38,13 +38,13 @@ public class JDBCExector {
     //插入，得到主键
     public int insert(String sql,Object... params) throws Exception{
         PreparedStatement ps = getInstance().conn.prepareStatement(sql,
-                Statement.RETURN_GENERATED_KEYS);
+                Statement.RETURN_GENERATED_KEYS); //开启主键
         for (int i=0;i<params.length;i++){
             ps.setObject(i+1, params[i]);
         }
-        ps.executeUpdate();
-        ResultSet keys = ps.getGeneratedKeys();
-        keys.next();
+        ps.executeUpdate(); //执行插入
+        ResultSet keys = ps.getGeneratedKeys(); //得到主键列结果集
+        keys.next(); //下一个主键（刚插入）
         return keys.getInt(1);
     }
     //更新，得到被影响的条数

@@ -37,6 +37,7 @@ public class UpdateServlet extends HttpServlet {
         int rows = uS.update(user);
         //修改成功，返回主页面
         if (rows != 0){
+            //重新显示
             Collection<User> result = uS.findAll();
             session.setAttribute("users", result);
             RequestDispatcher dispatcher =

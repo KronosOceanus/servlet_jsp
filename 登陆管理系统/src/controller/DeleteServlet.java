@@ -29,20 +29,25 @@ public class DeleteServlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 
+        //得到会话
         HttpSession session = req.getSession();
         int id = 0;
         User user = null;
 
+        //得到用户id
         try {
             id = Integer.parseInt(req.getParameter("id"));
         }catch (NumberFormatException e){
             resp.sendRedirect("Error.jsp");
         }
 
+        //查找user
         user = uS.findById(id);
         if (user != null){
+            //删除user对象
             uS.deleteById(id);
 
+            //转发请求到jsp页面，用于重新显示
             Collection<User> result = uS.findAll();
             session.setAttribute("users", result);
             RequestDispatcher dispatcher =

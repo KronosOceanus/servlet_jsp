@@ -58,3 +58,6 @@ web.xml中代码如下
     
 ## 条件求值
 可以使用 **?:三目运算符**，例:${ text ? expression1 : expression2 }
+
+# JSTL
+相当于 MyBatis 的动态 SQL，可以使用 EL 表达式

@@ -34,7 +34,9 @@ public class RegisterServlet extends HttpServlet {
 
         User user = new User();
         IDCard idCard = new IDCard();
+        //得到两个Bean
         BeanUtilities.dividePopulateBean(user, idCard, req);
+        //设置关联
         AssociateUtils.setBeforeAssociate(user, idCard);
 
         String address = null;
