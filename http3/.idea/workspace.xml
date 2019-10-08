@@ -7,67 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce250b45-e221-45bd-9aef-7d3f4c882b6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../MyServlet/note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_el/src/el/JstlController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_el/web/WEB-INF/jstl-bean.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_el/web/jstl.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../文件下载/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../文件下载/note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../文件下载/src/download/DownloadServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../文件下载/web/Download.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../文件下载/web/download/timg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../文件下载/web/download/潮田渚.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../文件下载/web/download/网易云看板娘.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Form/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Form/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Http2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Http2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MVC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MVC/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyServlet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyServlet/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyServlet/out/artifacts/MyServlet_war_exploded/WEB-INF/classes/form/BeanUtilities.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyServlet/out/artifacts/MyServlet_war_exploded/WEB-INF/classes/form/BeanUtilities.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cookie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cookie/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/http3/META-INF/http3.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../jsp+java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jsp_el/.idea/artifacts/jsp_el_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp_el/.idea/artifacts/jsp_el_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jsp_el/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp_el/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jsp_el/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp_el/note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web.xml/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web.xml/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web.xml/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/../web.xml/note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web.xml/out/artifacts/web_xml_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web.xml/out/artifacts/web_xml_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web.xml/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web.xml/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../登陆管理系统/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/artifacts/_war_exploded/WEB-INF/classes/controller/DeleteServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../登陆管理系统/out/artifacts/_war_exploded/WEB-INF/classes/controller/DeleteServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/artifacts/_war_exploded/WEB-INF/classes/controller/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../登陆管理系统/out/artifacts/_war_exploded/WEB-INF/classes/controller/LoginServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/artifacts/_war_exploded/WEB-INF/classes/controller/RegisterServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../登陆管理系统/out/artifacts/_war_exploded/WEB-INF/classes/controller/RegisterServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/artifacts/_war_exploded/WEB-INF/classes/controller/UpdateServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../登陆管理系统/out/artifacts/_war_exploded/WEB-INF/classes/controller/UpdateServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/artifacts/_war_exploded/WEB-INF/classes/utils/BeanUtilities.class" beforeDir="false" afterPath="$PROJECT_DIR$/../登陆管理系统/out/artifacts/_war_exploded/WEB-INF/classes/utils/BeanUtilities.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/controller/DeleteServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/controller/LoginServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/controller/RegisterServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/controller/SelectServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/controller/UpdateServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/dao/CommonDaoImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/dao/IDCardDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/dao/IDCardDaoImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/dao/UserDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/dao/UserDaoImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/entity/IDCard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/entity/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/entity/ValueObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/service/IDCardService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/service/IDCardServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/service/UserServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/utils/AssociateUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/utils/BeanUtilities.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/utils/JDBCExector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/utils/MD5Utils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/utils/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/utils/PropsUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/src/controller/DeleteServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../登陆管理系统/src/controller/DeleteServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/src/controller/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../登陆管理系统/src/controller/LoginServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/src/controller/RegisterServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../登陆管理系统/src/controller/RegisterServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/src/controller/UpdateServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../登陆管理系统/src/controller/UpdateServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/src/utils/BeanUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/../登陆管理系统/src/utils/BeanUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/预定义变量.md" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/预定义变量.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,7 +22,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/http3/PrimeNumberServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
+            <state relative-caret-position="900">
               <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
             </state>
           </provider>
@@ -90,7 +31,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/http3/MessageImage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="774">
+            <state relative-caret-position="975">
               <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
             </state>
           </provider>
@@ -99,7 +40,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/http3/Excel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
+            <state relative-caret-position="350">
               <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
             </state>
           </provider>
@@ -132,7 +73,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/http3/Primes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="601">
+            <state relative-caret-position="800">
               <caret line="57" column="50" selection-start-line="57" selection-start-column="50" selection-end-line="57" selection-end-column="50" />
               <folding>
                 <element signature="method#nextPrime#0;class#Primes#0" />
@@ -147,7 +88,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/PrimeNumbers.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
+            <state relative-caret-position="300">
               <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
             </state>
           </provider>
@@ -232,7 +173,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -266,6 +206,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -554,17 +495,17 @@
       <workItem from="1561462352136" duration="11000" />
       <workItem from="1561463364140" duration="37000" />
       <workItem from="1565678340583" duration="318000" />
+      <workItem from="1570523240090" duration="13000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14886000" />
+    <option name="totallyTimeSpent" value="14899000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="144" y="0" width="1204" height="836" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31500873" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32024434" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -609,28 +550,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/http3/ServletUtils.java">
+    <entry file="file://$PROJECT_DIR$/src/http3/PrimeNumberServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+        <state relative-caret-position="900">
+          <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MIME类型.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Http1.1请求报头.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="175">
-            <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/http3/MessageImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
         </state>
       </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/http3/Excel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -643,7 +580,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/http3/Primes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="601">
+        <state relative-caret-position="800">
           <caret line="57" column="50" selection-start-line="57" selection-start-column="50" selection-end-line="57" selection-end-column="50" />
           <folding>
             <element signature="method#nextPrime#0;class#Primes#0" />
@@ -656,29 +593,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/PrimeNumbers.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
+        <state relative-caret-position="300">
           <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/http3/PrimeNumberServlet.java">
+    <entry file="file://$PROJECT_DIR$/src/http3/ServletUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+        <state relative-caret-position="225">
+          <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/http3/Excel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+    <entry file="file://$PROJECT_DIR$/MIME类型.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Http1.1请求报头.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/http3/MessageImage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="774">
-          <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="175">
+            <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

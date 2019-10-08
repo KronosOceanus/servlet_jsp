@@ -7,62 +7,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50209b22-2cda-40d4-89be-f498a58a8017" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../MyServlet/note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_el/src/el/JstlBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_el/src/el/JstlController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_el/web/WEB-INF/Jstl-bean.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsp_el/web/jstl.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../文件下载/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../文件下载/note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../文件下载/src/download/DownloadServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../文件下载/web/Download.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../文件下载/web/download/timg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../文件下载/web/download/潮田渚.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../文件下载/web/download/网易云看板娘.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyServlet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyServlet/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyServlet/out/artifacts/MyServlet_war_exploded/WEB-INF/classes/form/BeanUtilities.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyServlet/out/artifacts/MyServlet_war_exploded/WEB-INF/classes/form/BeanUtilities.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../发送邮件/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../发送邮件/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../发送邮件/src/SendMessages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../发送邮件/授权码.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/form/BeanUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/form/BeanUtilities.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cookie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cookie/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../http3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../http3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../jsp+java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jsp_el/.idea/artifacts/jsp_el_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp_el/.idea/artifacts/jsp_el_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jsp_el/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp_el/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web.xml/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web.xml/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web.xml/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/../web.xml/note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web.xml/out/artifacts/web_xml_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web.xml/out/artifacts/web_xml_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web.xml/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web.xml/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../登陆管理系统/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/artifacts/_war_exploded/WEB-INF/classes/controller/DeleteServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../登陆管理系统/out/artifacts/_war_exploded/WEB-INF/classes/controller/DeleteServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/artifacts/_war_exploded/WEB-INF/classes/controller/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../登陆管理系统/out/artifacts/_war_exploded/WEB-INF/classes/controller/LoginServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/artifacts/_war_exploded/WEB-INF/classes/controller/RegisterServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../登陆管理系统/out/artifacts/_war_exploded/WEB-INF/classes/controller/RegisterServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/artifacts/_war_exploded/WEB-INF/classes/controller/UpdateServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../登陆管理系统/out/artifacts/_war_exploded/WEB-INF/classes/controller/UpdateServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/artifacts/_war_exploded/WEB-INF/classes/utils/BeanUtilities.class" beforeDir="false" afterPath="$PROJECT_DIR$/../登陆管理系统/out/artifacts/_war_exploded/WEB-INF/classes/utils/BeanUtilities.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/controller/DeleteServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/controller/LoginServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/controller/RegisterServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/controller/SelectServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/controller/UpdateServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/dao/CommonDaoImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/dao/IDCardDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/dao/IDCardDaoImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/dao/UserDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/dao/UserDaoImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/entity/IDCard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/entity/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/entity/ValueObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/service/IDCardService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/service/IDCardServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/service/UserServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/utils/AssociateUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/utils/BeanUtilities.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/utils/JDBCExector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/utils/MD5Utils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/utils/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/out/production/登陆管理系统/utils/PropsUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/src/controller/DeleteServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../登陆管理系统/src/controller/DeleteServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/src/controller/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../登陆管理系统/src/controller/LoginServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/src/controller/RegisterServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../登陆管理系统/src/controller/RegisterServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/src/controller/UpdateServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../登陆管理系统/src/controller/UpdateServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/src/utils/BeanUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/../登陆管理系统/src/utils/BeanUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp+java/预定义变量.md" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp+java/预定义变量.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,41 +28,65 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/form/ServletUtils.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/form/GoodCodeServlet.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/form/SubmitInsuranceInfo.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/form/ThreeParams.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/form/SubmitResume.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/form/BeanUtilities.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+            <state relative-caret-position="-650">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/ShowParamsForm.html">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/form/ShowParams.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-902">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/form/GoodCodeServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/form/ThreeParams.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-177">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/form/BeanUtilities.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/form/InsuranceInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-138">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/form/BidInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -121,10 +98,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/form/BadCodeServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
+            <state relative-caret-position="-150">
               <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
             </state>
           </provider>
@@ -155,6 +132,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/web/ImageMap.html" />
+        <option value="$PROJECT_DIR$/src/form/BeanUtilities.java" />
       </list>
     </option>
   </component>
@@ -243,8 +221,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -524,17 +502,18 @@
       <workItem from="1560327845836" duration="13000" />
       <workItem from="1560773093166" duration="121000" />
       <workItem from="1565660718239" duration="7000" />
+      <workItem from="1570525600457" duration="128000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="867000" />
+    <option name="totallyTimeSpent" value="995000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="220" y="36" width="1200" height="772" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2714536" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27583188" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -542,6 +521,7 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.328125" />
@@ -557,6 +537,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Bean Validation" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -583,25 +564,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/form/ShowParams.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/form/InsuranceInfo.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/form/BidServlet.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/form/ServletUtils.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/form/GoodCodeServlet.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/form/SubmitInsuranceInfo.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/form/ThreeParams.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/form/SubmitResume.java">
@@ -624,17 +590,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/form/BeanUtilities.java">
+    <entry file="file://$PROJECT_DIR$/src/form/BadCodeServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        <state relative-caret-position="-150">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/form/BadCodeServlet.java">
+    <entry file="file://$PROJECT_DIR$/src/form/GoodCodeServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        <state relative-caret-position="175">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/form/InsuranceInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/form/ServletUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-650">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/form/ShowParams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-902">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/form/BidInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/form/ThreeParams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-177">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/form/BeanUtilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
         </state>
       </provider>
     </entry>

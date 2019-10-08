@@ -11,7 +11,7 @@ import java.util.Map;
  */
 public class BeanUtilities {
 
-    //给实例赋值
+    //通过请求获取参数 map
     public static void populateBean(Object formBean,
                                     HttpServletRequest req){
         populateBean(formBean,req.getParameterMap());
