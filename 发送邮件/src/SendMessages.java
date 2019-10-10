@@ -16,7 +16,7 @@ import javax.mail.internet.MimeMessage;
  */
 public class SendMessages {
 
-    public static void Send(String tittle,String value) throws MessagingException{
+    public static void Send(String title,String value) throws MessagingException{
         Properties properties = new Properties();
         properties.put("mail.transport.protocol", "smtp");// 连接协议
         properties.put("mail.smtp.host", "smtp.qq.com");// 主机名
@@ -34,7 +34,7 @@ public class SendMessages {
         message.setRecipients(MimeMessage.RecipientType.TO,
                 new InternetAddress[]{new InternetAddress("704690152@qq.com")});
         //设置邮件标题
-        message.setSubject(tittle);
+        message.setSubject(title);
         //设置邮件内容
         message.setText(value);
         //得到邮差对象
