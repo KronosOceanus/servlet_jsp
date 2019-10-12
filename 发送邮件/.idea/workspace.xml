@@ -2,7 +2,76 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="485ac5db-776e-4ce3-9920-829a45ddca8c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../jsp_el/point.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web.xml/point.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web应用共享数据/point.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../文件下载/point.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/.idea/artifacts/jdbc_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/jdbc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/mysql.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/note.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/classes/utils/ConnInfoBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/classes/utils/DriverInfoBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/classes/utils/DriverUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/annotations-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/catalina-ant.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/catalina-ha.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/catalina-storeconfig.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/catalina-tribes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/catalina.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/commons-beanutils-1.9.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/commons-collections4-4.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/ecj-4.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/el-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/jasper-el.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/jasper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/jaspic-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/jsp-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/servlet-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/tomcat-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/tomcat-coyote.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/tomcat-dbcp.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/tomcat-i18n-cs.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/tomcat-i18n-de.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/tomcat-i18n-es.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/tomcat-i18n-fr.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/tomcat-i18n-ja.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/tomcat-i18n-ko.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/tomcat-i18n-pt-BR.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/tomcat-i18n-ru.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/tomcat-i18n-zh-CN.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/tomcat-jdbc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/tomcat-jni.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/tomcat-util-scan.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/tomcat-util.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/tomcat-websocket.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/websocket-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/wwhm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/production/jdbc/utils/ConnInfoBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/production/jdbc/utils/DriverInfoBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/out/production/jdbc/utils/DriverUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/src/utils/ConnInfoBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/src/utils/DriverInfoBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/src/utils/DriverUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsp_el/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp_el/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web.xml/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web.xml/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web应用共享数据/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web应用共享数据/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web应用共享数据/src/shared/SetSharedInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web应用共享数据/src/shared/SetSharedInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web应用共享数据/src/shared/ShowSharedInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web应用共享数据/src/shared/ShowSharedInfo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SendMessages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SendMessages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../文件下载/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../文件下载/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../登陆管理系统/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../登陆管理系统/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,11 +82,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SendMessages.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+            <state relative-caret-position="225">
+              <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/point.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="175">
+                <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -57,6 +138,7 @@
       <list>
         <option value="$PROJECT_DIR$/授权码.txt" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/point.md" />
         <option value="$PROJECT_DIR$/src/SendMessages.java" />
       </list>
     </option>
@@ -74,7 +156,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -91,13 +173,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570526134500" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570857649296" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Form" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -164,17 +246,18 @@
       <updated>1570523763118</updated>
       <workItem from="1570523766909" duration="2369000" />
       <workItem from="1570683028529" duration="106000" />
+      <workItem from="1570857631951" duration="132000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2475000" />
+    <option name="totallyTimeSpent" value="2607000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19436997" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19705094" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -212,13 +295,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/授权码.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -226,10 +302,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/授权码.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/SendMessages.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+        <state relative-caret-position="225">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="175">
+            <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

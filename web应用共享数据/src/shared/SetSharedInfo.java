@@ -5,6 +5,10 @@ import javax.servlet.ServletException;
 import javax.servlet.http.*;
 import java.io.IOException;
 
+/**
+ * 通过 Session / Cookie / ServletContext 设置共享数据
+ * 通过重定向发送并跳转到被共享页面（URL 需要编码成重定向 URL）
+ */
 public class SetSharedInfo extends HttpServlet {
 
     @Override

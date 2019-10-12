@@ -7,6 +7,10 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Enumeration;
 
+/**
+ * 通过 req 获取 Session / Cookie 读取被共享的信息
+ * 直接 getServletContext 方法获取 ServletContext
+ */
 public class ShowSharedInfo extends HttpServlet {
 
     @Override
