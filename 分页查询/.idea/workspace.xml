@@ -7,78 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab48e185-e4ec-45df-a5a7-2f837ad274b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../jsp_el/point.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web.xml/point.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web应用共享数据/point.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/point.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../发送邮件/point.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../文件下载/point.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/.idea/artifacts/jdbc_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/jdbc.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/mysql.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/note.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/classes/utils/ConnInfoBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/classes/utils/DriverInfoBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/classes/utils/DriverUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/annotations-api.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/catalina-ant.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/catalina-ha.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/catalina-storeconfig.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/catalina-tribes.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/catalina.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/commons-beanutils-1.9.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/commons-collections4-4.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/ecj-4.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/el-api.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/jasper-el.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/jasper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/jaspic-api.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/jsp-api.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/servlet-api.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/tomcat-api.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/tomcat-coyote.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/tomcat-dbcp.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/tomcat-i18n-cs.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/tomcat-i18n-de.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/tomcat-i18n-es.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/tomcat-i18n-fr.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/tomcat-i18n-ja.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/tomcat-i18n-ko.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/tomcat-i18n-pt-BR.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/tomcat-i18n-ru.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/tomcat-i18n-zh-CN.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/tomcat-jdbc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/tomcat-jni.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/tomcat-util-scan.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/tomcat-util.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/tomcat-websocket.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/lib/websocket-api.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/artifacts/jdbc_war_exploded/wwhm.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/production/jdbc/utils/ConnInfoBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/production/jdbc/utils/DriverInfoBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/out/production/jdbc/utils/DriverUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/src/utils/ConnInfoBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/src/utils/DriverInfoBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/src/utils/DriverUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/web/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/web/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jsp_el/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jsp_el/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web.xml/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web.xml/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web应用共享数据/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web应用共享数据/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web应用共享数据/src/shared/SetSharedInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web应用共享数据/src/shared/SetSharedInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web应用共享数据/src/shared/ShowSharedInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web应用共享数据/src/shared/ShowSharedInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../发送邮件/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../发送邮件/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../发送邮件/src/SendMessages.java" beforeDir="false" afterPath="$PROJECT_DIR$/../发送邮件/src/SendMessages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../文件下载/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../文件下载/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../登陆管理系统/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../登陆管理系统/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/controller/PageSelectServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+            <state relative-caret-position="25">
+              <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -101,22 +30,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/dao/RoleDaoImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            <state relative-caret-position="125">
+              <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pojo/Role.java">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pojo/PageBean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            <state relative-caret-position="275">
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -147,13 +80,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/role_list.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
+            <state relative-caret-position="375">
               <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/point.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -188,8 +121,8 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="120" />
-    <option name="y" value="30" />
+    <option name="x" value="110" />
+    <option name="y" value="16" />
     <option name="width" value="1750" />
     <option name="height" value="960" />
   </component>
@@ -230,6 +163,18 @@
             <path>
               <item name="分页查询" type="b2602c69:ProjectViewProjectNode" />
               <item name="分页查询" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="分页查询" type="b2602c69:ProjectViewProjectNode" />
+              <item name="分页查询" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="分页查询" type="b2602c69:ProjectViewProjectNode" />
+              <item name="分页查询" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -248,6 +193,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570691082271" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -351,17 +297,20 @@
       <updated>1570690950516</updated>
       <workItem from="1570690954476" duration="156000" />
       <workItem from="1570857770846" duration="182000" />
+      <workItem from="1571311020739" duration="995000" />
+      <workItem from="1571313255368" duration="290000" />
+      <workItem from="1571314793826" duration="22000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="338000" />
+    <option name="totallyTimeSpent" value="1645000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="96" y="24" width="1400" height="768" extended-state="0" />
+    <frame x="88" y="13" width="1400" height="768" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533532" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26453054" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -401,12 +350,9 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/controller/ConditionSelectServlet.java" />
     <entry file="file://$PROJECT_DIR$/src/pojo/Role.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pojo/PageBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -427,23 +373,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/controller/PageSelectServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dao/RoleDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/role_list.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
+        <state relative-caret-position="375">
           <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
         </state>
       </provider>
@@ -455,6 +387,27 @@
             <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pojo/PageBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao/RoleDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/PageSelectServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
         </state>
       </provider>
     </entry>

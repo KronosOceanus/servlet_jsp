@@ -39,8 +39,8 @@ public class SendMessages {
         message.setText(value);
         //得到邮差对象
         Transport transport = session.getTransport();
-        //连接自己的邮箱账户
-        transport.connect("704690152@qq.com", "ozjzvddayzdgbeej");//密码为刚才得到的授权码
+        //连接发件人的邮箱账户
+        transport.connect("704690152@qq.com", "ozjzvddayzdgbeej");
         transport.sendMessage(message, message.getAllRecipients());
     }
 }
